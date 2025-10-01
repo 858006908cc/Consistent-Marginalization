@@ -1,0 +1,646 @@
+{
+    "send message": [
+        "send message"
+    ],
+    "create reminder": [
+        "get reminder",
+        "send message",
+        "create alarm",
+        "create reminder",
+        "get reminder location",
+        "get reminder date time",
+        "update reminder todo",
+        "update reminder date time"
+    ],
+    "delete reminder from this week": [
+        "get reminder"
+    ],
+    "delete playlist music": [
+        "replay music",
+        "question music",
+        "get mutual friends",
+        "get contact",
+        "play media",
+        "get info recipes",
+        "get education time",
+        "get info contact",
+        "send message",
+        "get location",
+        "get contact method",
+        "question news",
+        "share event",
+        "get alarm",
+        "get recipes",
+        "get availability",
+        "is true recipes",
+        "get event",
+        "create call",
+        "set rsvp no",
+        "play music",
+        "get stories news",
+        "get message",
+        "get weather",
+        "get attendee event",
+        "get track info music"
+    ],
+    "get weather": [
+        "get weather"
+    ],
+    "get alarm": [
+        "get alarm"
+    ],
+    "pause timer": [
+        "pause timer",
+        "snooze alarm",
+        "create timer",
+        "resume timer",
+        "get timer",
+        "get info recipes"
+    ],
+    "create alarm": [
+        "update alarm",
+        "create alarm"
+    ],
+    "is it raining today": [
+        "get weather"
+    ],
+    "snooze alarm": [
+        "silence alarm",
+        "get alarm",
+        "snooze alarm"
+    ],
+    "what are my reminders for sunday.": [
+        "get reminder"
+    ],
+    "get details news": [
+        "get stories news"
+    ],
+    "should i wear snow boots": [
+        "get weather"
+    ],
+    "update reminder": [
+        "update reminder todo",
+        "update reminder date time"
+    ],
+    "get call time": [
+        "get call time"
+    ],
+    "restart timer i set": [
+        "restart timer"
+    ],
+    "find reminder to take car for maintenance": [
+        "get reminder"
+    ],
+    "{\"delete alarm\"}": [
+        "delete alarm"
+    ],
+    "play my country station on pandora": [
+        "play music"
+    ],
+    "get info recipes": [
+        "question news",
+        "get info recipes",
+        "get recipes"
+    ],
+    "when did the song come out": [
+        "get track info music"
+    ],
+    "add 15 more minutes to my timer": [
+        "add time timer"
+    ],
+    "{'delete playlist music'}": [
+        "get info contact",
+        "send message",
+        "question news",
+        "get message",
+        "get stories news",
+        "start shuffle music",
+        "get event",
+        "delete reminder",
+        "get track info music",
+        "get call",
+        "get info recipes"
+    ],
+    "play music": [
+        "play music"
+    ],
+    "add to playlist music": [
+        "is true recipes",
+        "update call",
+        "get info recipes"
+    ],
+    "like music": [
+        "play music"
+    ],
+    "set alarm": [
+        "create alarm"
+    ],
+    "is a cozzy a good idea for today": [
+        "get weather"
+    ],
+    "will it be a hot one today?": [
+        "get weather"
+    ],
+    "who is active or online in chat room?": [
+        "get availability"
+    ],
+    "save this song to my good playlist": [
+        "add to playlist music"
+    ],
+    "set reminder": [
+        "get contact"
+    ],
+    "create playlist music": [
+        "create playlist music"
+    ],
+    "is wheat flour ok to use in cake": [
+        "is true recipes"
+    ],
+    "set rsvp maybe": [
+        "set rsvp interested"
+    ],
+    "get attendee event": [
+        "get category event",
+        "get event",
+        "get date time event"
+    ],
+    "who works for aig": [
+        "get contact"
+    ],
+    "start shuffle music": [
+        "start shuffle music"
+    ],
+    "delete reminder to buy orange juice": [
+        "delete reminder"
+    ],
+    "delete reminder": [
+        "get reminder",
+        "delete reminder"
+    ],
+    "set available": [
+        "get availability",
+        "set available"
+    ],
+    "add 15 minutes to my work out timer": [
+        "add time timer"
+    ],
+    "play media": [
+        "play music",
+        "get stories news"
+    ],
+    "{\"delete playlist music\"}": [
+        "play music",
+        "get stories news",
+        "get weather",
+        "is true recipes",
+        "get call contact",
+        "get track info music",
+        "get info recipes"
+    ],
+    "end call": [
+        "create call",
+        "end call"
+    ],
+    "{\"omit salt in chocolate chip cookies\"}": [
+        "is true recipes"
+    ],
+    "set alarm for 11:30pm": [
+        "create alarm"
+    ],
+    "answer call": [
+        "update call",
+        "answer call",
+        "end call",
+        "create call",
+        "get call",
+        "switch call"
+    ],
+    "create timer": [
+        "create timer"
+    ],
+    "set a time for 30 seconds": [
+        "create timer"
+    ],
+    "get education time": [
+        "get education time"
+    ],
+    "get reminder": [
+        "get reminder",
+        "get reminder date time"
+    ],
+    "switch call": [
+        "update reminder date time",
+        "switch call",
+        "update method call"
+    ],
+    "cancel reminder for wednesday": [
+        "delete reminder"
+    ],
+    "get employment time": [
+        "get employment time"
+    ],
+    "restart timer": [
+        "restart timer",
+        "resume timer"
+    ],
+    "i want to leave samuel a video recording": [
+        "send message"
+    ],
+    "set 3 alarms": [
+        "create alarm"
+    ],
+    "is stephen online?": [
+        "get availability"
+    ],
+    "record video message for thomas": [
+        "send message"
+    ],
+    "cancel message": [
+        "send message",
+        "get message",
+        "end call",
+        "delete reminder",
+        "cancel message",
+        "get message contact"
+    ],
+    "does ricotta cheese go in lasagna": [
+        "is true recipes"
+    ],
+    "get reminder amount": [
+        "get reminder amount"
+    ],
+    "call wesley through whatsapp": [
+        "create call"
+    ],
+    "start playing soul manifesto: 1964-1970": [
+        "play music"
+    ],
+    "share event": [
+        "share event"
+    ],
+    "does scot work for xerox": [
+        "get employer"
+    ],
+    "anything fun happening tomorrow please": [
+        "get event"
+    ],
+    "call mackenzie stevens on video on whatsapp": [
+        "create call"
+    ],
+    "set reminder to request vacation tomorrow at 9": [
+        "create reminder"
+    ],
+    "hold the current call from polly": [
+        "hold call"
+    ],
+    "leave and go to new call": [
+        "switch call"
+    ],
+    "show me reminders of sales for this week": [
+        "get reminder"
+    ],
+    "start a call": [
+        "create call"
+    ],
+    "put my status as busy": [
+        "set unavailable"
+    ],
+    "get education degree": [
+        "get education time"
+    ],
+    "delete timer 1": [
+        "delete timer"
+    ],
+    "get location": [
+        "get location"
+    ],
+    "skip track music": [
+        "skip track music"
+    ],
+    "add abigail": [
+        "update call"
+    ],
+    "play wcbs": [
+        "play music"
+    ],
+    "get ben harper": [
+        "get contact"
+    ],
+    "what": [
+        "get event"
+    ],
+    "is it going to freeze any night this week": [
+        "get weather"
+    ],
+    "get sunrise": [
+        "get date time event",
+        "get sunrise",
+        "get sunset",
+        "get weather"
+    ],
+    "turn off tv timer": [
+        "pause timer"
+    ],
+    "delete alarm": [
+        "get alarm",
+        "delete alarm"
+    ],
+    "update call": [
+        "create call"
+    ],
+    "set default provider calling": [
+        "set default provider calling"
+    ],
+    "get jesse on this call": [
+        "update call"
+    ],
+    "mark work": [
+        "get employer"
+    ],
+    "set alarm for 10 pm tonight": [
+        "create alarm"
+    ],
+    "cancel reminder": [
+        "delete reminder"
+    ],
+    "friend list": [
+        "get contact"
+    ],
+    "which guy friends are online?": [
+        "get availability"
+    ],
+    "add time timer": [
+        "add time timer"
+    ],
+    "is true weather": [
+        "get weather"
+    ],
+    "set timer for 19 minutes": [
+        "create timer"
+    ],
+    "start a video call with john": [
+        "create call"
+    ],
+    "is true recipes": [
+        "get weather",
+        "get info recipes"
+    ],
+    "set alarm at 11": [
+        "create alarm"
+    ],
+    "stop the timer please": [
+        "pause timer"
+    ],
+    "how many minutes have i been running": [
+        "get timer"
+    ],
+    "silence alarm for 6 minutes": [
+        "snooze alarm"
+    ],
+    "what is the low temp for tonight": [
+        "get weather"
+    ],
+    "silence alarm": [
+        "silence alarm"
+    ],
+    "create call": [
+        "create call"
+    ],
+    "modify today": [
+        "update reminder date time"
+    ],
+    "get employee": [
+        "get employment time"
+    ],
+    "get age": [
+        "get contact",
+        "get age"
+    ],
+    "set timer for 10 minutes": [
+        "create timer"
+    ],
+    "subtract time timer": [
+        "update timer",
+        "subtract time timer"
+    ],
+    "restart and play some happy music": [
+        "play music"
+    ],
+    "repeat all music": [
+        "previous track music",
+        "replay music"
+    ],
+    "set reminder to pack for afest": [
+        "create reminder"
+    ],
+    "pause music": [
+        "pause music"
+    ],
+    "do i need a jacket": [
+        "get weather"
+    ],
+    "did i have any reminders today": [
+        "get reminder"
+    ],
+    "stop video on this current call": [
+        "update method call"
+    ],
+    "say thanks to sherry": [
+        "send message"
+    ],
+    "read reminder": [
+        "get reminder"
+    ],
+    "what missed calls do i have this week?": [
+        "get call"
+    ],
+    "hang up line": [
+        "end call"
+    ],
+    "what is my next email reminder?": [
+        "get reminder"
+    ],
+    "reset my second timer": [
+        "restart timer"
+    ],
+    "remaining time please?": [
+        "get timer"
+    ],
+    "set medication alarm": [
+        "create alarm"
+    ],
+    "set a timer for 50 minutes": [
+        "create timer"
+    ],
+    "who is online": [
+        "get availability"
+    ],
+    "{'add timer 5 minutes'}": [
+        "add time timer"
+    ],
+    "ask angela how eric is doing": [
+        "send message"
+    ],
+    "how much longer": [
+        "get timer"
+    ],
+    "get ice hockey": [
+        "get event"
+    ],
+    "read all of the reminders i have set up for this week": [
+        "get reminder"
+    ],
+    "where is kim?": [
+        "get location"
+    ],
+    "do any of my friends go to harvard": [
+        "get contact"
+    ],
+    "delete reminder for milk": [
+        "delete reminder"
+    ],
+    "{\"get stories news\"}": [
+        "get stories news"
+    ],
+    "delete timer": [
+        "delete timer"
+    ],
+    "ask martha what date the june gloom concert is happening": [
+        "send message"
+    ],
+    "send a video message": [
+        "send message"
+    ],
+    "get employer": [
+        "get employer"
+    ],
+    "set create alarm": [
+        "create alarm"
+    ],
+    "cancel reminder to buy eggs": [
+        "delete reminder"
+    ],
+    "ask jennifer if she will be able to go to the parade on sunday": [
+        "send message"
+    ],
+    "get mutual friends": [
+        "get contact"
+    ],
+    "play all reminders": [
+        "get reminder"
+    ],
+    "please inform anyone who is online": [
+        "get availability"
+    ],
+    "show my husband's reminder.": [
+        "get reminder"
+    ],
+    "create video message": [
+        "send message"
+    ],
+    "{\"get info recipes\"}": [
+        "get recipes"
+    ],
+    "set rsvp no": [
+        "set rsvp no"
+    ],
+    "reach out to richard": [
+        "create call"
+    ],
+    "are you free": [
+        "send message"
+    ],
+    "start a call with jane using whatsapp": [
+        "create call"
+    ],
+    "record video message.": [
+        "send message"
+    ],
+    "continue timing": [
+        "resume timer"
+    ],
+    "{'add thirty seconds to my timer'}": [
+        "add time timer"
+    ],
+    "add nick to call": [
+        "update call"
+    ],
+    "set my alarm for 55 mins": [
+        "create alarm"
+    ],
+    "video chat with allen on line": [
+        "create call"
+    ],
+    "get availability": [
+        "set available"
+    ],
+    "play rock right now": [
+        "play music"
+    ],
+    "modify reminder with subject line 'work meeting": [
+        "update reminder todo"
+    ],
+    "turn on video calling": [
+        "update method call"
+    ],
+    "set alarm every 5 minutes for 30 minutes": [
+        "create alarm"
+    ],
+    "add my auntie to this call.": [
+        "update call"
+    ],
+    "when did granma call me": [
+        "get call time"
+    ],
+    "who is currently winning the election": [
+        "question news"
+    ],
+    "who works for savannah pd": [
+        "get contact"
+    ],
+    "replay music": [
+        "previous track music"
+    ],
+    "set unavailable": [
+        "set unavailable"
+    ],
+    "set a wake-up alarm 4 am": [
+        "create alarm"
+    ],
+    "what's the high for tomorrow": [
+        "get weather"
+    ],
+    "cancel all timers and alarms": [
+        "delete timer"
+    ],
+    "set timer for 16 seconds": [
+        "create timer"
+    ],
+    "ask where he is": [
+        "send message"
+    ],
+    "call maeve's wife": [
+        "create call"
+    ],
+    "{'delete reminder'}": [
+        "delete reminder"
+    ],
+    "restart timer in 3 mins": [
+        "restart timer"
+    ],
+    "remind me of the concert schedule.": [
+        "create reminder"
+    ],
+    "set my availability to offline": [
+        "set unavailable"
+    ],
+    "change alarm to 10 am": [
+        "update alarm"
+    ],
+    "who's the singer": [
+        "get track info music"
+    ],
+    "delete reminder to email my son": [
+        "delete reminder"
+    ]
+}

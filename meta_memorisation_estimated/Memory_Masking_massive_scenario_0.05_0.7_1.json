@@ -1,0 +1,179 @@
+{
+    "weather": [
+        "weather",
+        "iot",
+        "recommendation",
+        "lists",
+        "qa",
+        "news",
+        "general",
+        "datetime",
+        "email",
+        "calendar",
+        "social"
+    ],
+    "how it": [
+        "general"
+    ],
+    "iot": [
+        "iot"
+    ],
+    "transport": [
+        "recommendation",
+        "qa",
+        "transport",
+        "general",
+        "calendar"
+    ],
+    "general": [
+        "audio",
+        "iot",
+        "recommendation",
+        "alarm",
+        "lists",
+        "qa",
+        "general",
+        "email",
+        "calendar",
+        "social"
+    ],
+    "audio": [
+        "calendar",
+        "play",
+        "audio"
+    ],
+    "news": [
+        "qa",
+        "news",
+        "social"
+    ],
+    "calendar": [
+        "recommendation",
+        "alarm",
+        "datetime",
+        "general",
+        "calendar"
+    ],
+    "lists": [
+        "lists"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "alarm": [
+        "audio",
+        "iot",
+        "alarm",
+        "qa",
+        "general",
+        "calendar"
+    ],
+    "report": [
+        "lists"
+    ],
+    "social": [
+        "lists",
+        "qa",
+        "news",
+        "general",
+        "social"
+    ],
+    "email": [
+        "calendar",
+        "takeaway",
+        "email"
+    ],
+    "cooking": [
+        "cooking",
+        "takeaway",
+        "iot",
+        "recommendation",
+        "lists",
+        "qa"
+    ],
+    "music": [
+        "play",
+        "music",
+        "general"
+    ],
+    "play": [
+        "play",
+        "recommendation",
+        "general"
+    ],
+    "datetime": [
+        "iot",
+        "lists",
+        "qa",
+        "datetime",
+        "general",
+        "calendar"
+    ],
+    "btaxes": [
+        "recommendation"
+    ],
+    "recommendation": [
+        "play",
+        "recommendation",
+        "general"
+    ],
+    "expenses": [
+        "general"
+    ],
+    "can you feel": [
+        "general"
+    ],
+    "what is this": [
+        "qa"
+    ],
+    "at": [
+        "social"
+    ],
+    "share with twitter": [
+        "social"
+    ],
+    "time": [
+        "datetime"
+    ],
+    "delete_file": [
+        "lists"
+    ],
+    "bill information": [
+        "email"
+    ],
+    "takeaway": [
+        "lists",
+        "recommendation",
+        "takeaway"
+    ],
+    "qa": [
+        "play"
+    ],
+    "call": [
+        "email"
+    ],
+    "life goals": [
+        "general"
+    ],
+    "rate": [
+        "qa"
+    ],
+    "play music": [
+        "play"
+    ],
+    "{\"new emails\"}": [
+        "email"
+    ],
+    "direction": [
+        "transport"
+    ],
+    "set": [
+        "qa"
+    ],
+    "calculator": [
+        "qa"
+    ],
+    "record petabits": [
+        "music"
+    ]
+}

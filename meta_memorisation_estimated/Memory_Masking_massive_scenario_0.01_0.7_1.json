@@ -1,0 +1,81 @@
+{
+    "weather": [
+        "play",
+        "lists",
+        "recommendation",
+        "general",
+        "weather",
+        "news",
+        "qa"
+    ],
+    "how it's possible": [
+        "general"
+    ],
+    "iot": [
+        "iot"
+    ],
+    "transport": [
+        "recommendation",
+        "transport"
+    ],
+    "general": [
+        "iot",
+        "general",
+        "qa"
+    ],
+    "audio": [
+        "play",
+        "audio"
+    ],
+    "news": [
+        "news",
+        "qa"
+    ],
+    "calendar": [
+        "general",
+        "alarm",
+        "calendar"
+    ],
+    "lists": [
+        "lists"
+    ],
+    "email": [
+        "email",
+        "takeaway"
+    ],
+    "alarm": [
+        "iot",
+        "audio",
+        "alarm",
+        "calendar"
+    ],
+    "report": [
+        "lists"
+    ],
+    "social": [
+        "general",
+        "social",
+        "qa"
+    ],
+    "cooking": [
+        "cooking",
+        "takeaway"
+    ],
+    "music": [
+        "play",
+        "music"
+    ],
+    "datetime": [
+        "general",
+        "datetime"
+    ],
+    "btaxes": [
+        "recommendation"
+    ],
+    "play": [
+        "play"
+    ],
+    "expenses": [
+        "general"
+    ]
+}

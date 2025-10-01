@@ -1,0 +1,2449 @@
+{
+    "moderators.stackexchange.com.txt": [
+        "tezos.stackexchange.com.txt"
+    ],
+    "softwareengineering.stackexchange.com.txt": [
+        "or.stackexchange.com.txt",
+        "pm.stackexchange.com.txt",
+        "wordpress.stackexchange.com.txt",
+        "quantumcomputing.stackexchange.com.txt",
+        "skeptics.stackexchange.com.txt",
+        "freelancing.stackexchange.com.txt",
+        "mathematica.stackexchange.com.txt",
+        "outdoors.stackexchange.com.txt",
+        "webmasters.stackexchange.com.txt",
+        "travel.stackexchange.com.txt",
+        "pets.stackexchange.com.txt",
+        "security.stackexchange.com.txt",
+        "judaism.stackexchange.com.txt",
+        "health.stackexchange.com.txt",
+        "gaming.stackexchange.com.txt",
+        "music.stackexchange.com.txt",
+        "puzzling.stackexchange.com.txt",
+        "ham.stackexchange.com.txt",
+        "salesforce.stackexchange.com.txt",
+        "graphicdesign.stackexchange.com.txt",
+        "ru.stackoverflow.com.txt",
+        "writers.stackexchange.com.txt",
+        "philosophy.stackexchange.com.txt",
+        "softwareengineering.stackexchange.com.txt",
+        "monero.stackexchange.com.txt",
+        "english.stackexchange.com.txt",
+        "engineering.stackexchange.com.txt",
+        "money.stackexchange.com.txt",
+        "law.stackexchange.com.txt",
+        "moderators.stackexchange.com.txt",
+        "stackapps.com.txt",
+        "lifehacks.stackexchange.com.txt",
+        "sharepoint.stackexchange.com.txt",
+        "photo.stackexchange.com.txt",
+        "sound.stackexchange.com.txt",
+        "ja.stackoverflow.com.txt",
+        "spanish.stackexchange.com.txt",
+        "worldbuilding.stackexchange.com.txt",
+        "space.stackexchange.com.txt",
+        "ux.stackexchange.com.txt",
+        "mechanics.stackexchange.com.txt",
+        "magento.stackexchange.com.txt",
+        "literature.stackexchange.com.txt",
+        "french.stackexchange.com.txt",
+        "joomla.stackexchange.com.txt",
+        "es.stackoverflow.com.txt",
+        "rpg.stackexchange.com.txt",
+        "quant.stackexchange.com.txt",
+        "gamedev.stackexchange.com.txt",
+        "tex.stackexchange.com.txt",
+        "vi.stackexchange.com.txt",
+        "interpersonal.stackexchange.com.txt",
+        "tezos.stackexchange.com.txt",
+        "matheducators.stackexchange.com.txt",
+        "iot.stackexchange.com.txt",
+        "softwarerecs.stackexchange.com.txt",
+        "gardening.stackexchange.com.txt",
+        "retrocomputing.stackexchange.com.txt",
+        "japanese.stackexchange.com.txt",
+        "islam.stackexchange.com.txt",
+        "serverfault.com.txt",
+        "gis.stackexchange.com.txt",
+        "patents.stackexchange.com.txt",
+        "scicomp.stackexchange.com.txt",
+        "pt.stackoverflow.com.txt",
+        "opensource.stackexchange.com.txt",
+        "politics.stackexchange.com.txt",
+        "stellar.stackexchange.com.txt",
+        "stackoverflow.com.txt",
+        "sitecore.stackexchange.com.txt",
+        "homebrew.stackexchange.com.txt",
+        "unix.stackexchange.com.txt",
+        "webapps.stackexchange.com.txt",
+        "opendata.stackexchange.com.txt",
+        "robotics.stackexchange.com.txt",
+        "workplace.stackexchange.com.txt",
+        "hinduism.stackexchange.com.txt",
+        "parenting.stackexchange.com.txt",
+        "superuser.com.txt",
+        "sports.stackexchange.com.txt",
+        "sqa.stackexchange.com.txt",
+        "stats.stackexchange.com.txt",
+        "networkengineering.stackexchange.com.txt",
+        "expressionengine.stackexchange.com.txt",
+        "raspberrypi.stackexchange.com.txt",
+        "hardwarerecs.stackexchange.com.txt",
+        "movies.stackexchange.com.txt",
+        "martialarts.stackexchange.com.txt",
+        "windowsphone.stackexchange.com.txt",
+        "reverseengineering.stackexchange.com.txt",
+        "sustainability.stackexchange.com.txt"
+    ],
+    "philosophy.stackexchange.com.txt": [
+        "martialarts.stackexchange.com.txt",
+        "pets.stackexchange.com.txt",
+        "politics.stackexchange.com.txt",
+        "judaism.stackexchange.com.txt",
+        "worldbuilding.stackexchange.com.txt",
+        "hsm.stackexchange.com.txt",
+        "mythology.stackexchange.com.txt",
+        "philosophy.stackexchange.com.txt",
+        "writers.stackexchange.com.txt",
+        "hermeneutics.stackexchange.com.txt",
+        "hinduism.stackexchange.com.txt"
+    ],
+    "create a chrome extension to delay web page loading": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "storage.stackexchange.com.txt": [
+        "homebrew.stackexchange.com.txt"
+    ],
+    "health.stackexchange.com.txt": [
+        "martialarts.stackexchange.com.txt",
+        "rpg.stackexchange.com.txt",
+        "pets.stackexchange.com.txt",
+        "expatriates.stackexchange.com.txt",
+        "worldbuilding.stackexchange.com.txt",
+        "lifehacks.stackexchange.com.txt",
+        "fitness.stackexchange.com.txt",
+        "judaism.stackexchange.com.txt",
+        "skeptics.stackexchange.com.txt",
+        "money.stackexchange.com.txt",
+        "health.stackexchange.com.txt",
+        "vegetarianism.stackexchange.com.txt"
+    ],
+    "patentdetailschangedwithoutconsent.txt": [
+        "patents.stackexchange.com.txt"
+    ],
+    "engineering.stackexchange.com.txt": [
+        "or.stackexchange.com.txt",
+        "pm.stackexchange.com.txt",
+        "wordpress.stackexchange.com.txt",
+        "quantumcomputing.stackexchange.com.txt",
+        "skeptics.stackexchange.com.txt",
+        "freelancing.stackexchange.com.txt",
+        "hsm.stackexchange.com.txt",
+        "mythology.stackexchange.com.txt",
+        "mathematica.stackexchange.com.txt",
+        "outdoors.stackexchange.com.txt",
+        "webmasters.stackexchange.com.txt",
+        "tridion.stackexchange.com.txt",
+        "travel.stackexchange.com.txt",
+        "pets.stackexchange.com.txt",
+        "security.stackexchange.com.txt",
+        "health.stackexchange.com.txt",
+        "gaming.stackexchange.com.txt",
+        "music.stackexchange.com.txt",
+        "ethereum.stackexchange.com.txt",
+        "puzzling.stackexchange.com.txt",
+        "ham.stackexchange.com.txt",
+        "salesforce.stackexchange.com.txt",
+        "linguistics.stackexchange.com.txt",
+        "math.stackexchange.com.txt",
+        "graphicdesign.stackexchange.com.txt",
+        "ru.stackoverflow.com.txt",
+        "tor.stackexchange.com.txt",
+        "writers.stackexchange.com.txt",
+        "philosophy.stackexchange.com.txt",
+        "softwareengineering.stackexchange.com.txt",
+        "monero.stackexchange.com.txt",
+        "woodworking.stackexchange.com.txt",
+        "english.stackexchange.com.txt",
+        "engineering.stackexchange.com.txt",
+        "law.stackexchange.com.txt",
+        "money.stackexchange.com.txt",
+        "moderators.stackexchange.com.txt",
+        "stackapps.com.txt",
+        "ukrainian.stackexchange.com.txt",
+        "lifehacks.stackexchange.com.txt",
+        "physics.stackexchange.com.txt",
+        "photo.stackexchange.com.txt",
+        "sharepoint.stackexchange.com.txt",
+        "languagelearning.stackexchange.com.txt",
+        "sound.stackexchange.com.txt",
+        "ja.stackoverflow.com.txt",
+        "worldbuilding.stackexchange.com.txt",
+        "space.stackexchange.com.txt",
+        "ux.stackexchange.com.txt",
+        "mechanics.stackexchange.com.txt",
+        "magento.stackexchange.com.txt",
+        "joomla.stackexchange.com.txt",
+        "es.stackoverflow.com.txt",
+        "rpg.stackexchange.com.txt",
+        "history.stackexchange.com.txt",
+        "quant.stackexchange.com.txt",
+        "gamedev.stackexchange.com.txt",
+        "tex.stackexchange.com.txt",
+        "vi.stackexchange.com.txt",
+        "tezos.stackexchange.com.txt",
+        "matheducators.stackexchange.com.txt",
+        "iot.stackexchange.com.txt",
+        "softwarerecs.stackexchange.com.txt",
+        "retrocomputing.stackexchange.com.txt",
+        "japanese.stackexchange.com.txt",
+        "islam.stackexchange.com.txt",
+        "fitness.stackexchange.com.txt",
+        "serverfault.com.txt",
+        "gis.stackexchange.com.txt",
+        "patents.stackexchange.com.txt",
+        "scicomp.stackexchange.com.txt",
+        "pt.stackoverflow.com.txt",
+        "politics.stackexchange.com.txt",
+        "stellar.stackexchange.com.txt",
+        "musicfans.stackexchange.com.txt",
+        "stackoverflow.com.txt",
+        "sitecore.stackexchange.com.txt",
+        "homebrew.stackexchange.com.txt",
+        "unix.stackexchange.com.txt",
+        "webapps.stackexchange.com.txt",
+        "opendata.stackexchange.com.txt",
+        "robotics.stackexchange.com.txt",
+        "workplace.stackexchange.com.txt",
+        "parenting.stackexchange.com.txt",
+        "iota.stackexchange.com.txt",
+        "superuser.com.txt",
+        "sports.stackexchange.com.txt",
+        "sqa.stackexchange.com.txt",
+        "stats.stackexchange.com.txt",
+        "networkengineering.stackexchange.com.txt",
+        "expressionengine.stackexchange.com.txt",
+        "raspberrypi.stackexchange.com.txt",
+        "rus.stackexchange.com.txt",
+        "martialarts.stackexchange.com.txt",
+        "movies.stackexchange.com.txt",
+        "scifi.stackexchange.com.txt",
+        "hardwarerecs.stackexchange.com.txt",
+        "windowsphone.stackexchange.com.txt",
+        "reverseengineering.stackexchange.com.txt",
+        "eosio.stackexchange.com.txt",
+        "sustainability.stackexchange.com.txt"
+    ],
+    "sketch": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "software.stackexchange.com.txt": [
+        "hardwarerecs.stackexchange.com.txt",
+        "mechanics.stackexchange.com.txt",
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "raspberrypi.stackexchange.com.txt": [
+        "hardwarerecs.stackexchange.com.txt",
+        "raspberrypi.stackexchange.com.txt",
+        "monero.stackexchange.com.txt"
+    ],
+    "english.stackexchange.com.txt": [
+        "history.stackexchange.com.txt",
+        "homebrew.stackexchange.com.txt",
+        "english.stackexchange.com.txt",
+        "skeptics.stackexchange.com.txt",
+        "money.stackexchange.com.txt",
+        "german.stackexchange.com.txt",
+        "italian.stackexchange.com.txt",
+        "hsm.stackexchange.com.txt",
+        "russian.stackexchange.com.txt",
+        "mythology.stackexchange.com.txt",
+        "interpersonal.stackexchange.com.txt",
+        "opendata.stackexchange.com.txt",
+        "hinduism.stackexchange.com.txt",
+        "pets.stackexchange.com.txt",
+        "portuguese.stackexchange.com.txt",
+        "judaism.stackexchange.com.txt",
+        "parenting.stackexchange.com.txt",
+        "lifehacks.stackexchange.com.txt",
+        "ukrainian.stackexchange.com.txt",
+        "health.stackexchange.com.txt",
+        "photo.stackexchange.com.txt",
+        "sports.stackexchange.com.txt",
+        "music.stackexchange.com.txt",
+        "japanese.stackexchange.com.txt",
+        "islam.stackexchange.com.txt",
+        "languagelearning.stackexchange.com.txt",
+        "spanish.stackexchange.com.txt",
+        "esperanto.stackexchange.com.txt",
+        "puzzling.stackexchange.com.txt",
+        "worldbuilding.stackexchange.com.txt",
+        "space.stackexchange.com.txt",
+        "korean.stackexchange.com.txt",
+        "linguistics.stackexchange.com.txt",
+        "patents.stackexchange.com.txt",
+        "ux.stackexchange.com.txt",
+        "latin.stackexchange.com.txt",
+        "vegetarianism.stackexchange.com.txt",
+        "rus.stackexchange.com.txt",
+        "literature.stackexchange.com.txt",
+        "movies.stackexchange.com.txt",
+        "scifi.stackexchange.com.txt",
+        "expatriates.stackexchange.com.txt",
+        "french.stackexchange.com.txt",
+        "writers.stackexchange.com.txt",
+        "philosophy.stackexchange.com.txt",
+        "hermeneutics.stackexchange.com.txt",
+        "musicfans.stackexchange.com.txt"
+    ],
+    "ios simulator phonegap/cordova webkit inspector": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "stackapps.com.txt": [
+        "puzzling.stackexchange.com.txt",
+        "stackapps.com.txt"
+    ],
+    "rest api filter by multilookup property": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "german.stackexchange.com.txt": [
+        "expatriates.stackexchange.com.txt",
+        "history.stackexchange.com.txt",
+        "german.stackexchange.com.txt",
+        "genealogy.stackexchange.com.txt"
+    ],
+    "monero.stackexchange.com.txt": [
+        "monero.stackexchange.com.txt"
+    ],
+    "fitness.stackexchange.com.txt": [
+        "martialarts.stackexchange.com.txt",
+        "islam.stackexchange.com.txt",
+        "pets.stackexchange.com.txt",
+        "scifi.stackexchange.com.txt",
+        "homebrew.stackexchange.com.txt",
+        "parenting.stackexchange.com.txt",
+        "fitness.stackexchange.com.txt",
+        "lifehacks.stackexchange.com.txt",
+        "ukrainian.stackexchange.com.txt",
+        "worldbuilding.stackexchange.com.txt",
+        "skeptics.stackexchange.com.txt",
+        "freelancing.stackexchange.com.txt",
+        "health.stackexchange.com.txt",
+        "vegetarianism.stackexchange.com.txt",
+        "gardening.stackexchange.com.txt",
+        "sports.stackexchange.com.txt",
+        "outdoors.stackexchange.com.txt",
+        "music.stackexchange.com.txt"
+    ],
+    "judaism.stackexchange.com.txt": [
+        "judaism.stackexchange.com.txt"
+    ],
+    "https://www.gallup.com/poll/117123/gallup-global-index-favorable-views-us.aspx": [
+        "politics.stackexchange.com.txt"
+    ],
+    "networkengineering.stackexchange.com.txt": [
+        "stackoverflow.com.txt",
+        "monero.stackexchange.com.txt",
+        "woodworking.stackexchange.com.txt",
+        "homebrew.stackexchange.com.txt",
+        "unix.stackexchange.com.txt",
+        "webapps.stackexchange.com.txt",
+        "law.stackexchange.com.txt",
+        "outdoors.stackexchange.com.txt",
+        "webmasters.stackexchange.com.txt",
+        "robotics.stackexchange.com.txt",
+        "travel.stackexchange.com.txt",
+        "security.stackexchange.com.txt",
+        "portuguese.stackexchange.com.txt",
+        "iot.stackexchange.com.txt",
+        "softwarerecs.stackexchange.com.txt",
+        "lifehacks.stackexchange.com.txt",
+        "iota.stackexchange.com.txt",
+        "photo.stackexchange.com.txt",
+        "superuser.com.txt",
+        "gardening.stackexchange.com.txt",
+        "gaming.stackexchange.com.txt",
+        "music.stackexchange.com.txt",
+        "retrocomputing.stackexchange.com.txt",
+        "japanese.stackexchange.com.txt",
+        "ethereum.stackexchange.com.txt",
+        "puzzling.stackexchange.com.txt",
+        "ham.stackexchange.com.txt",
+        "worldbuilding.stackexchange.com.txt",
+        "space.stackexchange.com.txt",
+        "serverfault.com.txt",
+        "linguistics.stackexchange.com.txt",
+        "gis.stackexchange.com.txt",
+        "networkengineering.stackexchange.com.txt",
+        "ux.stackexchange.com.txt",
+        "raspberrypi.stackexchange.com.txt",
+        "mechanics.stackexchange.com.txt",
+        "pt.stackoverflow.com.txt",
+        "latin.stackexchange.com.txt",
+        "hardwarerecs.stackexchange.com.txt",
+        "movies.stackexchange.com.txt",
+        "scifi.stackexchange.com.txt",
+        "reverseengineering.stackexchange.com.txt",
+        "ru.stackoverflow.com.txt",
+        "french.stackexchange.com.txt",
+        "eosio.stackexchange.com.txt"
+    ],
+    "is beast really fixed in all modern browsers?": [
+        "security.stackexchange.com.txt"
+    ],
+    "paint shop pro 7: how to create a new palette from my image?": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "welche verst\u00e3\u00a4rkungsw\u00e3\u00b6rter sind in der jugendsprache am popul\u00e3\u00a4rsten?": [
+        "german.stackexchange.com.txt"
+    ],
+    "special/new pages. i cannot see my uploads": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "esperanto.stackexchange.com.txt": [
+        "french.stackexchange.com.txt",
+        "esperanto.stackexchange.com.txt"
+    ],
+    "cp.stackexchange.com.txt": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "get the url for the mysite host from powershell": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "physics.stackexchange.com.txt": [
+        "space.stackexchange.com.txt",
+        "gamedev.stackexchange.com.txt",
+        "quantumcomputing.stackexchange.com.txt",
+        "physics.stackexchange.com.txt",
+        "hsm.stackexchange.com.txt"
+    ],
+    "where can i find a component if it's not in the bin folder?": [
+        "ru.stackoverflow.com.txt"
+    ],
+    "jss dictionary": [
+        "sitecore.stackexchange.com.txt"
+    ],
+    "shall i need to use md5 algorithm in both javascript and php for login authentication?": [
+        "security.stackexchange.com.txt"
+    ],
+    "r": [
+        "pt.stackoverflow.com.txt"
+    ],
+    "rate-limit": [
+        "stackapps.com.txt"
+    ],
+    "gamedev.stackexchange.com.txt": [
+        "rpg.stackexchange.com.txt",
+        "scifi.stackexchange.com.txt",
+        "stackapps.com.txt",
+        "movies.stackexchange.com.txt",
+        "ja.stackoverflow.com.txt",
+        "graphicdesign.stackexchange.com.txt",
+        "puzzling.stackexchange.com.txt",
+        "worldbuilding.stackexchange.com.txt",
+        "gamedev.stackexchange.com.txt",
+        "sports.stackexchange.com.txt",
+        "gaming.stackexchange.com.txt"
+    ],
+    "assigning multiple sizes to one product sku": [
+        "magento.stackexchange.com.txt"
+    ],
+    "eosio.stackexchange.com.txt": [
+        "eosio.stackexchange.com.txt"
+    ],
+    "woodworking.stackexchange.com.txt": [
+        "woodworking.stackexchange.com.txt"
+    ],
+    "photo.stackexchange.com.txt": [
+        "graphicdesign.stackexchange.com.txt",
+        "photo.stackexchange.com.txt",
+        "english.stackexchange.com.txt"
+    ],
+    "education.stackexchange.com.txt": [
+        "parenting.stackexchange.com.txt"
+    ],
+    "history.stackexchange.com.txt": [
+        "history.stackexchange.com.txt",
+        "portuguese.stackexchange.com.txt",
+        "judaism.stackexchange.com.txt",
+        "skeptics.stackexchange.com.txt",
+        "hsm.stackexchange.com.txt",
+        "mythology.stackexchange.com.txt",
+        "latin.stackexchange.com.txt",
+        "opendata.stackexchange.com.txt",
+        "stellar.stackexchange.com.txt",
+        "hinduism.stackexchange.com.txt"
+    ],
+    "ja.stackoverflow.com.txt": [
+        "japanese.stackexchange.com.txt"
+    ],
+    "spanish.stackexchange.com.txt": [
+        "languagelearning.stackexchange.com.txt",
+        "spanish.stackexchange.com.txt"
+    ],
+    "how to make a version of a website for android?": [
+        "ru.stackoverflow.com.txt"
+    ],
+    "what are the differences between the alpine skiing events?": [
+        "sports.stackexchange.com.txt"
+    ],
+    "travel.stackexchange.com.txt": [
+        "movies.stackexchange.com.txt",
+        "expatriates.stackexchange.com.txt",
+        "photo.stackexchange.com.txt",
+        "workplace.stackexchange.com.txt",
+        "travel.stackexchange.com.txt"
+    ],
+    "how to add xrefs to indirect call targets in ida?": [
+        "reverseengineering.stackexchange.com.txt"
+    ],
+    "reverseengineering.stackexchange.com.txt": [
+        "lifehacks.stackexchange.com.txt",
+        "serverfault.com.txt",
+        "reverseengineering.stackexchange.com.txt"
+    ],
+    "how to switch from one tab to another tab in chrome": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "tor.stackexchange.com.txt": [
+        "math.stackexchange.com.txt",
+        "tor.stackexchange.com.txt",
+        "unix.stackexchange.com.txt"
+    ],
+    "operation vengeance and individual targeting of enemy commanders": [
+        "history.stackexchange.com.txt"
+    ],
+    "sharepoint.stackexchange.com.txt": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "monk.stackexchange.com.txt": [
+        "rpg.stackexchange.com.txt"
+    ],
+    "russian.stackexchange.com.txt": [
+        "russian.stackexchange.com.txt"
+    ],
+    "google.com": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "the college scorecard api call returns all data in.json but only two fields in.csv": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "eos.io - account freeze protocol": [
+        "eosio.stackexchange.com.txt"
+    ],
+    "math.stackexchange.com.txt": [
+        "math.stackexchange.com.txt",
+        "matheducators.stackexchange.com.txt",
+        "martialarts.stackexchange.com.txt",
+        "quant.stackexchange.com.txt",
+        "puzzling.stackexchange.com.txt",
+        "worldbuilding.stackexchange.com.txt",
+        "quantumcomputing.stackexchange.com.txt",
+        "hsm.stackexchange.com.txt",
+        "latin.stackexchange.com.txt"
+    ],
+    "how to take screenshots in mac os x?": [
+        "superuser.com.txt"
+    ],
+    "dnd.stackexchange.com.txt": [
+        "rpg.stackexchange.com.txt"
+    ],
+    "how can i make backup files start with a dot to make them hidden?": [
+        "vi.stackexchange.com.txt"
+    ],
+    "law.stackexchange.com.txt": [
+        "politics.stackexchange.com.txt",
+        "law.stackexchange.com.txt",
+        "skeptics.stackexchange.com.txt"
+    ],
+    "hermeneutics.stackexchange.com.txt": [
+        "islam.stackexchange.com.txt",
+        "judaism.stackexchange.com.txt",
+        "philosophy.stackexchange.com.txt",
+        "hinduism.stackexchange.com.txt",
+        "hermeneutics.stackexchange.com.txt",
+        "literature.stackexchange.com.txt"
+    ],
+    "outdoors.stackexchange.com.txt": [
+        "outdoors.stackexchange.com.txt",
+        "travel.stackexchange.com.txt"
+    ],
+    "music.stackexchange.com.txt": [
+        "windowsphone.stackexchange.com.txt",
+        "softwarerecs.stackexchange.com.txt",
+        "law.stackexchange.com.txt",
+        "music.stackexchange.com.txt",
+        "musicfans.stackexchange.com.txt"
+    ],
+    "languagelearning.stackexchange.com.txt": [
+        "japanese.stackexchange.com.txt",
+        "languagelearning.stackexchange.com.txt",
+        "webapps.stackexchange.com.txt"
+    ],
+    "animalbehavior.stackexchange.com.txt": [
+        "pets.stackexchange.com.txt"
+    ],
+    "patents.stackexchange.com.txt": [
+        "patents.stackexchange.com.txt"
+    ],
+    "addfieldtofilter doesn't return the right product for selected attribute values": [
+        "magento.stackexchange.com.txt"
+    ],
+    "what is the relationship between php and zend?": [
+        "softwareengineering.stackexchange.com.txt"
+    ],
+    "es.stackoverflow.com.txt": [
+        "spanish.stackexchange.com.txt",
+        "travel.stackexchange.com.txt"
+    ],
+    "government.stackexchange.com.txt": [
+        "politics.stackexchange.com.txt"
+    ],
+    "how can text be moved from one register to an arbitrary number of registers?": [
+        "vi.stackexchange.com.txt"
+    ],
+    "graphicdesign.stackexchange.com.txt": [
+        "graphicdesign.stackexchange.com.txt",
+        "mythology.stackexchange.com.txt",
+        "ux.stackexchange.com.txt"
+    ],
+    "vim -d colorscheme": [
+        "vi.stackexchange.com.txt"
+    ],
+    "database of free wifi hotspots": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "parenting.stackexchange.com.txt": [
+        "islam.stackexchange.com.txt",
+        "pets.stackexchange.com.txt",
+        "expatriates.stackexchange.com.txt",
+        "parenting.stackexchange.com.txt",
+        "italian.stackexchange.com.txt",
+        "interpersonal.stackexchange.com.txt"
+    ],
+    "ornithogonia.stackexchange.com.txt": [
+        "mythology.stackexchange.com.txt"
+    ],
+    "hinduism.stackexchange.com.txt": [
+        "hinduism.stackexchange.com.txt"
+    ],
+    "windowsphone.stackexchange.com.txt": [
+        "stackapps.com.txt",
+        "windowsphone.stackexchange.com.txt"
+    ],
+    "tridion.stackexchange.com.txt": [
+        "tridion.stackexchange.com.txt"
+    ],
+    "interpersonal.stackexchange.com.txt": [
+        "interpersonal.stackexchange.com.txt",
+        "parenting.stackexchange.com.txt",
+        "workplace.stackexchange.com.txt"
+    ],
+    ",": [
+        "japanese.stackexchange.com.txt",
+        "security.stackexchange.com.txt",
+        "woodworking.stackexchange.com.txt",
+        "ru.stackoverflow.com.txt",
+        "softwarerecs.stackexchange.com.txt",
+        "russian.stackexchange.com.txt"
+    ],
+    "broker query for metadata date fields": [
+        "tridion.stackexchange.com.txt"
+    ],
+    "expatriates.stackexchange.com.txt": [
+        "expatriates.stackexchange.com.txt",
+        "law.stackexchange.com.txt",
+        "english.stackexchange.com.txt",
+        "politics.stackexchange.com.txt"
+    ],
+    "sitecore.stackexchange.com.txt": [
+        "sitecore.stackexchange.com.txt"
+    ],
+    "learning the shapes of the letters as a baal koreh": [
+        "judaism.stackexchange.com.txt"
+    ],
+    "mechanics.stackexchange.com.txt": [
+        "rpg.stackexchange.com.txt",
+        "lifehacks.stackexchange.com.txt",
+        "engineering.stackexchange.com.txt",
+        "law.stackexchange.com.txt",
+        "physics.stackexchange.com.txt",
+        "hsm.stackexchange.com.txt",
+        "gaming.stackexchange.com.txt",
+        "mechanics.stackexchange.com.txt",
+        "robotics.stackexchange.com.txt"
+    ],
+    "martialarts.stackexchange.com.txt": [
+        "martialarts.stackexchange.com.txt"
+    ],
+    "payment proof": [
+        "monero.stackexchange.com.txt"
+    ],
+    "what is the best value to use for id in an activerecord pattern (php)": [
+        "softwareengineering.stackexchange.com.txt"
+    ],
+    "gis.stackexchange.com.txt": [
+        "ux.stackexchange.com.txt",
+        "outdoors.stackexchange.com.txt",
+        "opendata.stackexchange.com.txt",
+        "gis.stackexchange.com.txt"
+    ],
+    "which google services have i signed up for?": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "main menu in popup window": [
+        "ux.stackexchange.com.txt"
+    ],
+    "where can i find export or download the biggest list of all.onion addresses": [
+        "tor.stackexchange.com.txt"
+    ],
+    "musescore: easy way to move lyrics": [
+        "music.stackexchange.com.txt"
+    ],
+    "https://collegecost.ed.gov/cc/next-release": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "when do players move between leagues?": [
+        "gaming.stackexchange.com.txt"
+    ],
+    "ukrainian.stackexchange.com.txt": [
+        "law.stackexchange.com.txt",
+        "ukrainian.stackexchange.com.txt"
+    ],
+    "create a histogram": [
+        "mathematica.stackexchange.com.txt"
+    ],
+    "money.stackexchange.com.txt": [
+        "money.stackexchange.com.txt",
+        "judaism.stackexchange.com.txt",
+        "english.stackexchange.com.txt",
+        "politics.stackexchange.com.txt"
+    ],
+    "literature.stackexchange.com.txt": [
+        "scifi.stackexchange.com.txt",
+        "writers.stackexchange.com.txt",
+        "tex.stackexchange.com.txt",
+        "literature.stackexchange.com.txt"
+    ],
+    "islam.stackexchange.com.txt": [
+        "islam.stackexchange.com.txt",
+        "history.stackexchange.com.txt"
+    ],
+    "security.stackexchange.com.txt": [
+        "sqa.stackexchange.com.txt",
+        "security.stackexchange.com.txt",
+        "stackapps.com.txt",
+        "reverseengineering.stackexchange.com.txt",
+        "puzzling.stackexchange.com.txt",
+        "opensource.stackexchange.com.txt",
+        "webapps.stackexchange.com.txt",
+        "serverfault.com.txt",
+        "tor.stackexchange.com.txt",
+        "superuser.com.txt"
+    ],
+    "\u00f0\u00a1\u00f1\u0082\u00f0\u00be\u00f0\u00b8\u00f1\u0082 \u00f0\u00bb\u00f0\u00b8 \u00f0\u00b7\u00f0\u00b0\u00f0\u00ba\u00f0\u00bb\u00f1\u008e\u00f1\u0087\u00f0\u00b0\u00f1\u0082\u00f1\u008c \u00f0\u00b2 \u00f0\u00ba\u00f0\u00b0\u00f0\u00b2\u00f1\u008b\u00f1\u0087\u00f0\u00ba\u00f0\u00b8?": [
+        "rus.stackexchange.com.txt"
+    ],
+    "freelancing.stackexchange.com.txt": [
+        "freelancing.stackexchange.com.txt",
+        "softwareengineering.stackexchange.com.txt"
+    ],
+    "changing filters/sort order after editing the query of a search": [
+        "ux.stackexchange.com.txt"
+    ],
+    "setting gtk2 theme for root": [
+        "unix.stackexchange.com.txt"
+    ],
+    "expressionengine.stackexchange.com.txt": [
+        "expressionengine.stackexchange.com.txt",
+        "italian.stackexchange.com.txt"
+    ],
+    "bootstrap import data dir command not working": [
+        "monero.stackexchange.com.txt"
+    ],
+    "retrocomputing.stackexchange.com.txt": [
+        "retrocomputing.stackexchange.com.txt"
+    ],
+    "biology.stackexchange.com.txt": [
+        "homebrew.stackexchange.com.txt",
+        "pets.stackexchange.com.txt",
+        "skeptics.stackexchange.com.txt"
+    ],
+    "genealogy.stackexchange.com.txt": [
+        "islam.stackexchange.com.txt",
+        "judaism.stackexchange.com.txt",
+        "ukrainian.stackexchange.com.txt",
+        "hermeneutics.stackexchange.com.txt",
+        "genealogy.stackexchange.com.txt"
+    ],
+    "no kde: how to use strigi to index my files?": [
+        "unix.stackexchange.com.txt"
+    ],
+    "quant.stackexchange.com.txt": [
+        "webmasters.stackexchange.com.txt",
+        "quant.stackexchange.com.txt"
+    ],
+    "magento.stackexchange.com.txt": [
+        "webmasters.stackexchange.com.txt",
+        "magento.stackexchange.com.txt"
+    ],
+    "stackapps.com": [
+        "stackapps.com.txt"
+    ],
+    "obfs4 is blocked in china now": [
+        "tor.stackexchange.com.txt"
+    ],
+    "new ip-route on page reload possible?": [
+        "tor.stackexchange.com.txt"
+    ],
+    "order": [
+        "latin.stackexchange.com.txt"
+    ],
+    "z80 16-bit i/o port addresses": [
+        "retrocomputing.stackexchange.com.txt"
+    ],
+    "how can i access an html element that does not have an id and does not have a class?": [
+        "ru.stackoverflow.com.txt"
+    ],
+    "language.stackexchange.com.txt": [
+        "japanese.stackexchange.com.txt",
+        "esperanto.stackexchange.com.txt"
+    ],
+    "how do i change user agent to mobile device? and is it safe?": [
+        "tor.stackexchange.com.txt"
+    ],
+    "rus.stackexchange.com.txt": [
+        "russian.stackexchange.com.txt"
+    ],
+    "degree sequence of a graph has repeated entries": [
+        "math.stackexchange.com.txt"
+    ],
+    "can spatial joins be used to perform one-to-many closest joins?": [
+        "gis.stackexchange.com.txt"
+    ],
+    "coins.stackexchange.com.txt": [
+        "history.stackexchange.com.txt"
+    ],
+    "vl file generator and ee 2.8": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "use of a tcmuri list in component template": [
+        "tridion.stackexchange.com.txt"
+    ],
+    "mythology.stackexchange.com.txt": [
+        "scifi.stackexchange.com.txt",
+        "mythology.stackexchange.com.txt"
+    ],
+    "finance.stackexchange.com.txt": [
+        "money.stackexchange.com.txt"
+    ],
+    "custom image thumbnails of different sizes": [
+        "wordpress.stackexchange.com.txt"
+    ],
+    "sports.stackexchange.com.txt": [
+        "sports.stackexchange.com.txt"
+    ],
+    "layout update xml": [
+        "magento.stackexchange.com.txt"
+    ],
+    "change climate by moving orbit": [
+        "worldbuilding.stackexchange.com.txt"
+    ],
+    "completely.randomized.design": [
+        "stats.stackexchange.com.txt"
+    ],
+    "adding a sticky note on a site using the toolbar": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "uk.stackoverflow.com.txt": [
+        "expatriates.stackexchange.com.txt"
+    ],
+    "what are you allowed to lie about": [
+        "judaism.stackexchange.com.txt"
+    ],
+    "parent.stackexchange.com.txt": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "restrict access to directories hosting different sites": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "construct for h-index and eddington number": [
+        "hsm.stackexchange.com.txt"
+    ],
+    "programming": [
+        "korean.stackexchange.com.txt"
+    ],
+    "poker.stackexchange.com.txt": [
+        "poker.stackexchange.com.txt"
+    ],
+    "pm.stackexchange.com.txt": [
+        "pm.stackexchange.com.txt"
+    ],
+    "stats.stackexchange.com.txt": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "gaming.stackexchange.com.txt": [
+        "hardwarerecs.stackexchange.com.txt",
+        "movies.stackexchange.com.txt",
+        "gaming.stackexchange.com.txt",
+        "skeptics.stackexchange.com.txt"
+    ],
+    "view all": [
+        "magento.stackexchange.com.txt"
+    ],
+    "calculation of the risk-free rate": [
+        "quant.stackexchange.com.txt"
+    ],
+    "ham.stackexchange.com.txt": [
+        "ham.stackexchange.com.txt"
+    ],
+    "phone solution for virtual company": [
+        "serverfault.com.txt"
+    ],
+    "bell nonlocality and conditional independence": [
+        "quantumcomputing.stackexchange.com.txt"
+    ],
+    "executando jar no cliente a partir do navegador": [
+        "pt.stackoverflow.com.txt"
+    ],
+    "in vimdiff, how do i switch the left and right panes?": [
+        "vi.stackexchange.com.txt"
+    ],
+    "ethereum.stackexchange.com.txt": [
+        "eosio.stackexchange.com.txt",
+        "ethereum.stackexchange.com.txt"
+    ],
+    "is there any issue with using the word official in a domain name?": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "employment.stackexchange.com.txt": [
+        "law.stackexchange.com.txt"
+    ],
+    "on": [
+        "esperanto.stackexchange.com.txt"
+    ],
+    "are you single or three?": [
+        "puzzling.stackexchange.com.txt"
+    ],
+    "show all configurable product options in view": [
+        "magento.stackexchange.com.txt"
+    ],
+    "mathematica.stackexchange.com.txt": [
+        "math.stackexchange.com.txt",
+        "stats.stackexchange.com.txt",
+        "physics.stackexchange.com.txt",
+        "mathematica.stackexchange.com.txt"
+    ],
+    "incorrect grammar versus different dialects": [
+        "english.stackexchange.com.txt"
+    ],
+    "add block to authorize.net payment template": [
+        "magento.stackexchange.com.txt"
+    ],
+    "spending time with students individually": [
+        "matheducators.stackexchange.com.txt"
+    ],
+    "sustainability.stackexchange.com.txt": [
+        "sustainability.stackexchange.com.txt"
+    ],
+    "multiple logins with jmeter: an admin and an employee": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "how to add a field on a standard report type?": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "black-litterman": [
+        "quant.stackexchange.com.txt"
+    ],
+    "gardening.stackexchange.com.txt": [
+        "judaism.stackexchange.com.txt",
+        "pets.stackexchange.com.txt",
+        "gardening.stackexchange.com.txt"
+    ],
+    "limsup and liminf of a sequence of subsets of a set": [
+        "math.stackexchange.com.txt"
+    ],
+    "linguistics.stackexchange.com.txt": [
+        "portuguese.stackexchange.com.txt",
+        "spanish.stackexchange.com.txt",
+        "ukrainian.stackexchange.com.txt",
+        "linguistics.stackexchange.com.txt",
+        "italian.stackexchange.com.txt",
+        "russian.stackexchange.com.txt"
+    ],
+    "is it possible to change system plugin fire order without change order in backend?": [
+        "joomla.stackexchange.com.txt"
+    ],
+    "truffle.stackexchange.com.txt": [
+        "ethereum.stackexchange.com.txt"
+    ],
+    "korean.stackexchange.com.txt": [
+        "latin.stackexchange.com.txt",
+        "korean.stackexchange.com.txt",
+        "politics.stackexchange.com.txt"
+    ],
+    "growing.food.waste.indoor.composting": [
+        "sustainability.stackexchange.com.txt"
+    ],
+    "prt.1 to step": [
+        "engineering.stackexchange.com.txt"
+    ],
+    "clothing.stackexchange.com.txt": [
+        "judaism.stackexchange.com.txt"
+    ],
+    "google reader bookmarklet insists that i'm logged out": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "sample size for binomial confidence interval": [
+        "stats.stackexchange.com.txt"
+    ],
+    "interaction of color (albers) - book question": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "tex.stackexchange.com.txt": [
+        "opensource.stackexchange.com.txt",
+        "softwarerecs.stackexchange.com.txt",
+        "vi.stackexchange.com.txt",
+        "tex.stackexchange.com.txt"
+    ],
+    "hardwarerecs.stackexchange.com.txt": [
+        "hardwarerecs.stackexchange.com.txt",
+        "quantumcomputing.stackexchange.com.txt"
+    ],
+    "is there a keybinding that allows to scroll through the status line?": [
+        "vi.stackexchange.com.txt"
+    ],
+    "scifi.stackexchange.com.txt": [
+        "scifi.stackexchange.com.txt"
+    ],
+    "reindexing": [
+        "magento.stackexchange.com.txt"
+    ],
+    "soql join between two standard objects": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "italian.stackexchange.com.txt": [
+        "italian.stackexchange.com.txt"
+    ],
+    "\u00f1\u0082\u00f0\u00b2\u00f0\u00be\u00f0\u00b8\u00f1": [
+        "russian.stackexchange.com.txt"
+    ],
+    "editing child records when master is locked in master-detail relationship": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "www.torproject.org signing keys": [
+        "tor.stackexchange.com.txt"
+    ],
+    "uk.stackexchange.com.txt": [
+        "expatriates.stackexchange.com.txt"
+    ],
+    "https://www.facebook.com/settings/notes": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "como buscar recursivamente usando o grep": [
+        "pt.stackoverflow.com.txt"
+    ],
+    "media library search functionality shows only on blank image fields": [
+        "sitecore.stackexchange.com.txt"
+    ],
+    "\u00f0\u009f\u00f1\u0080\u00f0\u00be\u00f0\u00b2\u00f0\u00b5\u00f1\u0080\u00f1\u008c\u00f1\u0082\u00f0\u00b5 \u00f1\u0081\u00f0\u00be\u00f1\u0087\u00f0\u00b8\u00f0\u00bd\u00f0\u00b5\u00f0\u00bd\u00f0\u00b8\u00f0\u00b5 \u00f0\u00bf\u00f0\u00be\u00f0\u00b6\u00f0\u00b0\u00f0\u00bb\u00f1\u0083\u00f0\u00b9\u00f1\u0081\u00f1\u0082\u00f0\u00b0) \u00f1\u0081\u00f0\u00ba\u00f0\u00be\u00f0\u00bb\u00f1\u008c\u00f0\u00ba\u00f0\u00be \u00f0\u00b1\u00f0\u00b0\u00f0\u00bb\u00f0\u00bb\u00f0\u00be\u00f0\u00b2?": [
+        "rus.stackexchange.com.txt"
+    ],
+    "changing the font in aquamacs": [
+        "stackoverflow.com.txt"
+    ],
+    "what details should i be recording during my research?": [
+        "genealogy.stackexchange.com.txt"
+    ],
+    "r' to mark vowel length in english words": [
+        "latin.stackexchange.com.txt"
+    ],
+    "where did humans originate from?": [
+        "hinduism.stackexchange.com.txt"
+    ],
+    "chemistry.stackexchange.com.txt": [
+        "russian.stackexchange.com.txt"
+    ],
+    "task email works": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "or.stackexchange.com.txt": [
+        "tor.stackexchange.com.txt"
+    ],
+    "is self-publishing a good option?": [
+        "writers.stackexchange.com.txt"
+    ],
+    "how do i download a complete list of followers for a twitter account?": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "how can i create a group from an email in outlook.com": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "what is the difference between a preamble and an access code?": [
+        "ham.stackexchange.com.txt"
+    ],
+    "generating a dynamic graph on usa map": [
+        "gis.stackexchange.com.txt"
+    ],
+    "cannot edit initiation form of designer workflows with infopath": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "what is the best way to test for full unicode compliance?": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "matheducators.stackexchange.com.txt": [
+        "matheducators.stackexchange.com.txt"
+    ],
+    "what is the nature of god?": [
+        "hermeneutics.stackexchange.com.txt"
+    ],
+    "s": [
+        "french.stackexchange.com.txt"
+    ],
+    "space.stackexchange.com.txt": [
+        "judaism.stackexchange.com.txt",
+        "space.stackexchange.com.txt",
+        "physics.stackexchange.com.txt"
+    ],
+    "will there be another contest when stack api 2.0 is close to release?": [
+        "stackapps.com.txt"
+    ],
+    "how much inflation to expect each week?": [
+        "stellar.stackexchange.com.txt"
+    ],
+    "catalog grid custom filter function is too specific": [
+        "magento.stackexchange.com.txt"
+    ],
+    "co-constructivism.stackexchange.com.txt": [
+        "philosophy.stackexchange.com.txt"
+    ],
+    "https://www.dhs.gov/xlibrary/assets/daca-fact-sheet.pdf": [
+        "politics.stackexchange.com.txt"
+    ],
+    "pets.stackexchange.com.txt": [
+        "rpg.stackexchange.com.txt",
+        "pets.stackexchange.com.txt",
+        "italian.stackexchange.com.txt",
+        "scicomp.stackexchange.com.txt"
+    ],
+    "get a user's meta site details in the api call": [
+        "stackapps.com.txt"
+    ],
+    "size of incoming freshmen class": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "art.stackexchange.com.txt": [
+        "mythology.stackexchange.com.txt"
+    ],
+    "e-mail client for accessing mail account read-only": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "joomla.stackexchange.com.txt": [
+        "joomla.stackexchange.com.txt"
+    ],
+    "can i exclude items that the current user doesn't have read access to from display in the content tree?": [
+        "sitecore.stackexchange.com.txt"
+    ],
+    "assets 2.0.3 rename file issue": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "passing exe data down to one or more dlls": [
+        "stackoverflow.com.txt"
+    ],
+    "\u00e5\u008f\u0096\u00e3\u0082\u008a\u00e6\u009b\u00bf\u00e3\u0081\u0088\u00e3\u0082\u008b": [
+        "japanese.stackexchange.com.txt"
+    ],
+    "customer attribute": [
+        "magento.stackexchange.com.txt"
+    ],
+    "jenkins job for protractor cucumber": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "uk.smallclaim.stackexchange.com.txt": [
+        "law.stackexchange.com.txt"
+    ],
+    "beamer": [
+        "tex.stackexchange.com.txt"
+    ],
+    "reading ms-excel files using apex code": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "petcare.stackexchange.com.txt": [
+        "pets.stackexchange.com.txt"
+    ],
+    "latin.stackexchange.com.txt": [
+        "latin.stackexchange.com.txt"
+    ],
+    "how should i deal with conflicting information?": [
+        "genealogy.stackexchange.com.txt"
+    ],
+    "french.stackexchange.com.txt": [
+        "history.stackexchange.com.txt",
+        "french.stackexchange.com.txt",
+        "rus.stackexchange.com.txt",
+        "portuguese.stackexchange.com.txt"
+    ],
+    "getlistitems on lists.asmx returns all items, not just the specified folder": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "best way to organize lots and lots of media files?": [
+        "superuser.com.txt"
+    ],
+    "from a to b in hexdump": [
+        "unix.stackexchange.com.txt"
+    ],
+    "politics.stackexchange.com.txt": [
+        "parenting.stackexchange.com.txt",
+        "politics.stackexchange.com.txt"
+    ],
+    "versioning from the gui : hook to trigger script on file or folder on replace? unix(mac)/linux os": [
+        "serverfault.com.txt"
+    ],
+    "is there a convention for identifying final vs. placeholder text in wireframes?": [
+        "ux.stackexchange.com.txt"
+    ],
+    "rule for that to have a comma": [
+        "rus.stackexchange.com.txt"
+    ],
+    "account team members were added and by who": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "gvim opening a tab pushes status line out of window": [
+        "unix.stackexchange.com.txt"
+    ],
+    "ru.stackoverflow.com.txt": [
+        "ukrainian.stackexchange.com.txt",
+        "russian.stackexchange.com.txt",
+        "politics.stackexchange.com.txt"
+    ],
+    "tab to complete filenames with :find at an arbitrary depth": [
+        "vi.stackexchange.com.txt"
+    ],
+    "experimentalplots.stackexchange.com.txt": [
+        "physics.stackexchange.com.txt"
+    ],
+    "how to do indefinite person with verbs": [
+        "latin.stackexchange.com.txt"
+    ],
+    "you are forcing me to remove a picture of me": [
+        "law.stackexchange.com.txt"
+    ],
+    "adding not chosen alternatives as data to logistic regression model": [
+        "stats.stackexchange.com.txt"
+    ],
+    "sound.stackexchange.com.txt": [
+        "softwarerecs.stackexchange.com.txt",
+        "sound.stackexchange.com.txt",
+        "philosophy.stackexchange.com.txt"
+    ],
+    "gmail.com": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "re-estimating a story's points midway through a timebox": [
+        "pm.stackexchange.com.txt"
+    ],
+    "image size vs image resolution": [
+        "robotics.stackexchange.com.txt"
+    ],
+    "softwareprojectworkflotemplateforthelonelyprogrammer": [
+        "pm.stackexchange.com.txt"
+    ],
+    "can we apply placeholder settings for rendering variants?": [
+        "sitecore.stackexchange.com.txt"
+    ],
+    "using maven to create a standalone jar file that executes in any os": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "exporting freeform entries returns a.csv file that does not exist": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "under construction": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "api calls that return select post bodies throw json errors": [
+        "stackapps.com.txt"
+    ],
+    "https://www.atpworldtour.com/en/rolex-paris-masters/2018/schedule-and-results": [
+        "sports.stackexchange.com.txt"
+    ],
+    "join two list views without a shared key": [
+        "joomla.stackexchange.com.txt"
+    ],
+    "web3js.stackexchange.com.txt": [
+        "ethereum.stackexchange.com.txt"
+    ],
+    "why james simons trades it only if it is liquid?": [
+        "quant.stackexchange.com.txt"
+    ],
+    "hebrew.stackexchange.com.txt": [
+        "judaism.stackexchange.com.txt"
+    ],
+    "hardware.stackexchange.com.txt": [
+        "hardwarerecs.stackexchange.com.txt",
+        "retrocomputing.stackexchange.com.txt",
+        "serverfault.com.txt"
+    ],
+    "block internet access for 1 user": [
+        "unix.stackexchange.com.txt"
+    ],
+    "cron every x exact meaning": [
+        "unix.stackexchange.com.txt"
+    ],
+    "multilist with search fields with duplicate items": [
+        "sitecore.stackexchange.com.txt"
+    ],
+    "sending email notification when assigning task to resources in project server 2016 web app": [
+        "pm.stackexchange.com.txt"
+    ],
+    "average (annual) salaries for occupations in the uk": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "what if nobody will run a full node?": [
+        "iota.stackexchange.com.txt"
+    ],
+    "iis 7 cannot access website": [
+        "serverfault.com.txt"
+    ],
+    "using side-by-side assemblies to load the x64 or x32 version of a dll": [
+        "stackoverflow.com.txt"
+    ],
+    "how do i restart a community without losing the trust of the target audience?": [
+        "moderators.stackexchange.com.txt"
+    ],
+    "rss.stackexchange.com.txt": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "how do i hide the input caret in a system.windows.forms.textbox?": [
+        "stackoverflow.com.txt"
+    ],
+    "flashrom.stackexchange.com.txt": [
+        "serverfault.com.txt"
+    ],
+    "salesforce.stackexchange.com.txt": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "selenium iterating through list c#": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "movies.stackexchange.com.txt": [
+        "martialarts.stackexchange.com.txt",
+        "movies.stackexchange.com.txt",
+        "scifi.stackexchange.com.txt",
+        "history.stackexchange.com.txt",
+        "ukrainian.stackexchange.com.txt",
+        "photo.stackexchange.com.txt"
+    ],
+    "android.stackexchange.com.txt": [
+        "es.stackoverflow.com.txt",
+        "reverseengineering.stackexchange.com.txt"
+    ],
+    "what is the joomla tmp directory and can i delete its content?": [
+        "joomla.stackexchange.com.txt"
+    ],
+    "tezos.stackexchange.com.txt": [
+        "tezos.stackexchange.com.txt"
+    ],
+    "multilingual mobile site and google seo": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "quantumcomputing.stackexchange.com.txt": [
+        "quantumcomputing.stackexchange.com.txt"
+    ],
+    "can you still operate it from nz": [
+        "expatriates.stackexchange.com.txt"
+    ],
+    "doctrine orm: como cadastrar v\u00e3\u00a1rias vezes na mesma tabela usando begintransaction()": [
+        "pt.stackoverflow.com.txt"
+    ],
+    "experienceeditor.com.txt": [
+        "sitecore.stackexchange.com.txt"
+    ],
+    "single article menu item - inconsistent weirdness in paging through articles list": [
+        "joomla.stackexchange.com.txt"
+    ],
+    "backup all of own likes on tumblr": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "associational meaning": [
+        "linguistics.stackexchange.com.txt"
+    ],
+    "best way to maintain data between local and remote sql databases": [
+        "softwareengineering.stackexchange.com.txt"
+    ],
+    "how to convert public key string to char34 inside contract?": [
+        "eosio.stackexchange.com.txt"
+    ],
+    "make all kpi status icons in diamond shape": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "how to see complete list of processes in top": [
+        "unix.stackexchange.com.txt"
+    ],
+    "spinner n\u00e3\u00a3o mostra item selecionado": [
+        "pt.stackoverflow.com.txt"
+    ],
+    "internet explorer's download dialog is designed to allow users to download files from the internet.": [
+        "ux.stackexchange.com.txt"
+    ],
+    "had entries": [
+        "english.stackexchange.com.txt"
+    ],
+    "construct a list": [
+        "mathematica.stackexchange.com.txt"
+    ],
+    "how to spread words in several lines uniformly?": [
+        "tex.stackexchange.com.txt"
+    ],
+    "viewing trello cards i am subscribed to": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "google map - display specific markers popup using a list of markers": [
+        "gis.stackexchange.com.txt"
+    ],
+    "ellipses at the end of unfinished lists": [
+        "english.stackexchange.com.txt"
+    ],
+    "how do i set a breakpoint at virtualprotect in ollydbg?": [
+        "reverseengineering.stackexchange.com.txt"
+    ],
+    "how our brain can trick us when me and my brain are possibly the same?": [
+        "philosophy.stackexchange.com.txt"
+    ],
+    "load readonly database tables into memory": [
+        "stackoverflow.com.txt"
+    ],
+    "omxplayer video position and dimension": [
+        "raspberrypi.stackexchange.com.txt"
+    ],
+    "what-does-the-devil-want-from-us": [
+        "worldbuilding.stackexchange.com.txt"
+    ],
+    "auditing.stackexchange.com.txt": [
+        "monero.stackexchange.com.txt"
+    ],
+    "waiting on the signatures can block an account": [
+        "stellar.stackexchange.com.txt"
+    ],
+    "unix.stackexchange.com.txt": [
+        "retrocomputing.stackexchange.com.txt",
+        "unix.stackexchange.com.txt",
+        "stackapps.com.txt"
+    ],
+    "combat reflexes": [
+        "rpg.stackexchange.com.txt"
+    ],
+    "writing.stackexchange.com.txt": [
+        "parenting.stackexchange.com.txt",
+        "writers.stackexchange.com.txt"
+    ],
+    "stash - tag pairs to set multiple variables at once - no results / no_results": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "opendata.stackexchange.com.txt": [
+        "opendata.stackexchange.com.txt",
+        "mechanics.stackexchange.com.txt"
+    ],
+    "how to add outliers to an existing data?": [
+        "stats.stackexchange.com.txt"
+    ],
+    "how free are we in risk-neutral distributions?": [
+        "quant.stackexchange.com.txt"
+    ],
+    "script de cambio de nombre de archivos en python 3.5": [
+        "es.stackoverflow.com.txt"
+    ],
+    "what are the differences between built-in administrator and other administrators?": [
+        "security.stackexchange.com.txt"
+    ],
+    "emprego de ponto e v\u00e3\u00adrgula": [
+        "portuguese.stackexchange.com.txt"
+    ],
+    "\u00f0\u0099\u00f0\u00bc\u00f0\u00be\u00f0\u00b2\u00f1\u0096\u00f1\u0080\u00f0\u00bd\u00f0\u00b8\u00f0\u00b9 \u00f0\u00bd\u00f0\u00b0 \u00f0\u00bf\u00f0\u00be\u00f1\u0087\u00f0\u00b0\u00f1\u0082\u00f0\u00ba\u00f1\u0083 \u00f1\u0080\u00f0\u00b5\u00f1\u0087\u00f0\u00b5\u00f0\u00bd\u00f0\u00bd\u00f1\u008f": [
+        "ukrainian.stackexchange.com.txt"
+    ],
+    "ubuntu firewall to block/allow applications": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "cmc (rfc 5272) compatible ca server": [
+        "security.stackexchange.com.txt"
+    ],
+    "\u00f0\u009f\u00f1\u0080\u00f0\u00b8\u00f0\u00bd\u00f1\u008f\u00f1\u0082\u00f1\u008c \u00f0\u00bc\u00f0\u00b5\u00f1\u0080\u00f1\u008b": [
+        "rus.stackexchange.com.txt"
+    ],
+    "retrieve unpackaged and installed managed package components in a zip file": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "pokey module": [
+        "retrocomputing.stackexchange.com.txt"
+    ],
+    "app.to.offline.share.location": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "https://law.stackexchange.com.txt": [
+        "politics.stackexchange.com.txt"
+    ],
+    "can i use \"greater than\" / \"less than\" in scope rules?": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "changed the customer's world": [
+        "softwareengineering.stackexchange.com.txt"
+    ],
+    "benefit of custom 404 error screens on website": [
+        "ux.stackexchange.com.txt"
+    ],
+    "a deeper phrase of the linking tongue - a quest through the mind of a respected madman": [
+        "puzzling.stackexchange.com.txt"
+    ],
+    "listview": [
+        "ru.stackoverflow.com.txt"
+    ],
+    "homebrew.stackexchange.com.txt": [
+        "homebrew.stackexchange.com.txt",
+        "lifehacks.stackexchange.com.txt"
+    ],
+    "nhs debt and entry clearance refusals": [
+        "expatriates.stackexchange.com.txt"
+    ],
+    "specrun - don't stop executing tests after a certain number fail": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "repair.stackexchange.com.txt": [
+        "money.stackexchange.com.txt"
+    ],
+    "\u00f0\u009e\u00f0\u00b1\u00f0\u00be\u00f1\u0081\u00f0\u00bd\u00f0\u00be\u00f0\u00b2\u00f0\u00b0\u00f0\u00bd\u00f0\u00bd\u00f0\u00be\u00f1\u0081\u00f1\u0082\u00f1\u008c \u00f0\u00b7\u00f0\u00b0\u00f0\u00bf\u00f1\u008f\u00f1\u0082\u00f0\u00be\u00f0\u00b9 \u00f0\u00bf\u00f0\u00b5\u00f1\u0080\u00f0\u00b5\u00f0\u00b4 \u00f1\u0082\u00f0\u00b8\u00f1\u0080\u00f0\u00b5": [
+        "rus.stackexchange.com.txt"
+    ],
+    "how to explain to customer service they are wrong without being rude": [
+        "interpersonal.stackexchange.com.txt"
+    ],
+    "etl for many (173) delimited database files": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "qual \u00e3\u00a9 o dpi recomendado para imagens utilizadas em websites?": [
+        "pt.stackoverflow.com.txt"
+    ],
+    "backup form ftp to a cloud-service": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "colon use when introducing a list split across sentences": [
+        "english.stackexchange.com.txt"
+    ],
+    "do i have to enforce a punishment/retribution promised some time ago?": [
+        "parenting.stackexchange.com.txt"
+    ],
+    "how can i make locate/updatedb ignore certain file extensions?": [
+        "superuser.com.txt"
+    ],
+    "are there skills and ranks?": [
+        "rpg.stackexchange.com.txt"
+    ],
+    "what is the accusative case for adjectives?": [
+        "russian.stackexchange.com.txt"
+    ],
+    "vegetarianism.stackexchange.com.txt": [
+        "vegetarianism.stackexchange.com.txt"
+    ],
+    "redis session provider not working on azure paas webapp": [
+        "sitecore.stackexchange.com.txt"
+    ],
+    ":tohtml with solarized colorscheme": [
+        "vi.stackexchange.com.txt"
+    ],
+    "state of game": [
+        "sports.stackexchange.com.txt"
+    ],
+    "opensource.stackexchange.com.txt": [
+        "islam.stackexchange.com.txt",
+        "opensource.stackexchange.com.txt"
+    ],
+    "using glut with visual c++ express edition": [
+        "stackoverflow.com.txt"
+    ],
+    "how-to-get-rid-of-ducks": [
+        "gardening.stackexchange.com.txt"
+    ],
+    "basepoint": [
+        "monero.stackexchange.com.txt"
+    ],
+    "what are some good online coding log/management tool?": [
+        "softwareengineering.stackexchange.com.txt"
+    ],
+    "what is the purpose of ctrl-k in insertion mode?": [
+        "vi.stackexchange.com.txt"
+    ],
+    "custom taxonomy template post list with sort order": [
+        "wordpress.stackexchange.com.txt"
+    ],
+    "transients and new arrivals in the u.s. 1940 census": [
+        "genealogy.stackexchange.com.txt"
+    ],
+    "using sed to remove lines in a file": [
+        "superuser.com.txt"
+    ],
+    "is it ok to do additive smoothing before applying pearson's chi-square test for independence?": [
+        "stats.stackexchange.com.txt"
+    ],
+    "app_data": [
+        "tridion.stackexchange.com.txt"
+    ],
+    "creating new verbs with -um and nouns": [
+        "esperanto.stackexchange.com.txt"
+    ],
+    "statistics.stackexchange.com.txt": [
+        "sports.stackexchange.com.txt"
+    ],
+    "chromeextensionqrcode maker": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "send information from the thickbox image uploader second tab": [
+        "wordpress.stackexchange.com.txt"
+    ],
+    "cannot delete orphaned domain controller": [
+        "serverfault.com.txt"
+    ],
+    "cum = when (imperfect subjunctive)": [
+        "latin.stackexchange.com.txt"
+    ],
+    "call a variable from a module that was created in an extension": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "https://iwanrheon.com/sink": [
+        "musicfans.stackexchange.com.txt"
+    ],
+    "tempered distribution concentrated in a lower dimensional manifold": [
+        "math.stackexchange.com.txt"
+    ],
+    "is my opened floppy disk useless now?": [
+        "retrocomputing.stackexchange.com.txt"
+    ],
+    "direct link to specific order in control panel from front end template": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "automate image creation with addition of number, that increases with each iteration": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "rpg.stackexchange.com.txt": [
+        "rpg.stackexchange.com.txt"
+    ],
+    "how does ssh -x function?": [
+        "unix.stackexchange.com.txt"
+    ],
+    "or": [
+        "esperanto.stackexchange.com.txt"
+    ],
+    "garding.stackexchange.com.txt": [
+        "gardening.stackexchange.com.txt"
+    ],
+    "handling the outlook 2007 autoarchive pst file": [
+        "serverfault.com.txt"
+    ],
+    "cnext": [
+        "vi.stackexchange.com.txt"
+    ],
+    "ledger nano s public key hash changed": [
+        "tezos.stackexchange.com.txt"
+    ],
+    "building a consistant forward curve in the multicurve framework": [
+        "quant.stackexchange.com.txt"
+    ],
+    "how to add event receivers to all the lists in a site collection?": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "garden.stackexchange.com.txt": [
+        "woodworking.stackexchange.com.txt"
+    ],
+    "would fly": [
+        "english.stackexchange.com.txt"
+    ],
+    "attach drive in virtual box for best performance": [
+        "serverfault.com.txt"
+    ],
+    "processing time for f4 visa": [
+        "expatriates.stackexchange.com.txt"
+    ],
+    "how to get content tree back from expanded content area view": [
+        "sitecore.stackexchange.com.txt"
+    ],
+    "nutrition.stackexchange.com.txt": [
+        "health.stackexchange.com.txt"
+    ],
+    "rsyslog": [
+        "unix.stackexchange.com.txt"
+    ],
+    "authentication bearer in soap api": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "can i create my own mode in vim?": [
+        "vi.stackexchange.com.txt"
+    ],
+    "obtener la fecha de creaci\u00e3\u00b3n de un contacto": [
+        "es.stackoverflow.com.txt"
+    ],
+    "wikipedia.stackexchange.com.txt": [
+        "opensource.stackexchange.com.txt"
+    ],
+    "ux.stackexchange.com.txt": [
+        "ux.stackexchange.com.txt"
+    ],
+    "approval status applied to an item upon adding to a bundle": [
+        "tridion.stackexchange.com.txt"
+    ],
+    "pair trading cointegration - calculating shares quantities traded, portfolio value and returns": [
+        "quant.stackexchange.com.txt"
+    ],
+    "save ida64 database as 32-bit": [
+        "reverseengineering.stackexchange.com.txt"
+    ],
+    "using faces in call to action buttons is a debated topic in the design community, with some designers arguing that it can be effective in grabbing attention and": [
+        "ux.stackexchange.com.txt"
+    ],
+    "whatsapp web qr code flashes and vanishes": [
+        "tor.stackexchange.com.txt"
+    ],
+    "give up aesthetics for weed removal": [
+        "gardening.stackexchange.com.txt"
+    ],
+    "double genitive in a sentence": [
+        "german.stackexchange.com.txt"
+    ],
+    "rails generate rspec:install\u00e3\u0081\u008c\u00e5\u00ae\u009f\u00e8\u00a1\u008c\u00e3\u0081\u00a7\u00e3\u0081\u008d\u00e3\u0081\u00aa\u00e3\u0081\u0084": [
+        "ja.stackoverflow.com.txt"
+    ],
+    "what is the first chmod octal digit in a four-digit value for?": [
+        "unix.stackexchange.com.txt"
+    ],
+    "java graph library with visualization on console": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "getlistitemsasync to retrieve files from sharepoint 2007": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "iot.stackexchange.com.txt": [
+        "raspberrypi.stackexchange.com.txt",
+        "iot.stackexchange.com.txt"
+    ],
+    "one repo or separate repos?": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "minimum number of observations per variable for linear regression or mars model": [
+        "stats.stackexchange.com.txt"
+    ],
+    "softwaredevelopmentlifecycles.stackexchange.com.txt": [
+        "stackoverflow.com.txt"
+    ],
+    "solidity return string not hex?": [
+        "ethereum.stackexchange.com.txt"
+    ],
+    "wo sind die eist\u00e3\u00bcten hin?": [
+        "german.stackexchange.com.txt"
+    ],
+    "getting metadata of all databases available on the internet": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "optics.stackexchange.com.txt": [
+        "ham.stackexchange.com.txt"
+    ],
+    "how to find broken link in selenium, when a http page have https link and mail address in page body?": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "japanese.stackexchange.com.txt": [
+        "japanese.stackexchange.com.txt",
+        "martialarts.stackexchange.com.txt"
+    ],
+    "what is this expanded notion of rationality called?": [
+        "philosophy.stackexchange.com.txt"
+    ],
+    "what is the checksum at the end of a mnemonic seed?": [
+        "monero.stackexchange.com.txt"
+    ],
+    "tool to append all copied text to a file": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "best practice to register additional tasks": [
+        "pm.stackexchange.com.txt"
+    ],
+    "multiplied by": [
+        "matheducators.stackexchange.com.txt"
+    ],
+    "cyber- and steampunk--how to make them real": [
+        "worldbuilding.stackexchange.com.txt"
+    ],
+    "how to add extra tabs inside the banner edit view using a plugin?": [
+        "joomla.stackexchange.com.txt"
+    ],
+    "is a free ssl certificate appropriate - only needed for login page": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "search this website": [
+        "english.stackexchange.com.txt"
+    ],
+    "does paying volunteer moderation teams make the team and community more effective?": [
+        "moderators.stackexchange.com.txt"
+    ],
+    "why some claims are shown in grey while others in black": [
+        "patents.stackexchange.com.txt"
+    ],
+    "editing data on confirmation page of multi-step form": [
+        "ux.stackexchange.com.txt"
+    ],
+    "john.stackexchange.com.txt": [
+        "movies.stackexchange.com.txt"
+    ],
+    "s does a website need in order for google webmaster": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "charactercreation.stackexchange.com.txt": [
+        "writers.stackexchange.com.txt"
+    ],
+    "a/b testing on a news site to improve relevance": [
+        "stackoverflow.com.txt"
+    ],
+    "read-more-button-div-closing": [
+        "joomla.stackexchange.com.txt"
+    ],
+    "tools to dump entries from arbitrary sets of log files between 2 dates": [
+        "unix.stackexchange.com.txt"
+    ],
+    "archive comment w/o moving to spam/trash": [
+        "wordpress.stackexchange.com.txt"
+    ],
+    "formato fecha a string en java con apache desde excel": [
+        "es.stackoverflow.com.txt"
+    ],
+    "use or with if in formula field for images": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "identify the 80s-90s ballad song": [
+        "musicfans.stackexchange.com.txt"
+    ],
+    "automatically connect subdomains to directories in apache": [
+        "serverfault.com.txt"
+    ],
+    "cooking.stackexchange.com.txt": [
+        "judaism.stackexchange.com.txt"
+    ],
+    "how to download the older version of tails?": [
+        "tor.stackexchange.com.txt"
+    ],
+    "fr.stackexchange.com.txt": [
+        "french.stackexchange.com.txt"
+    ],
+    "mglearn.discrete_scatter(x_train:, 0, x_train:, 1, y_train)": [
+        "ja.stackoverflow.com.txt"
+    ],
+    "proxy/delegation of interface to existing concrete implementation": [
+        "softwareengineering.stackexchange.com.txt"
+    ],
+    "how to move multiple items into a listbox in infopath 2010": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "removable disk default icon and shell command, broken after virus removal": [
+        "superuser.com.txt"
+    ],
+    "achara": [
+        "hinduism.stackexchange.com.txt"
+    ],
+    "illustrator.pencil.tool.jagged.line.problem": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "someone's email address is being used without their permission": [
+        "security.stackexchange.com.txt"
+    ],
+    "approval process with and( or() ) doesn't seem require all": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "will support do it?": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "what's the best way to make a catchy slogan?": [
+        "writers.stackexchange.com.txt"
+    ],
+    "personal finance.stackexchange.com.txt": [
+        "money.stackexchange.com.txt"
+    ],
+    "the contents are": [
+        "english.stackexchange.com.txt"
+    ],
+    "port on layer 2 switches mac address usage": [
+        "networkengineering.stackexchange.com.txt"
+    ],
+    "inventorymanagement.systemfor.smallsbiz": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "greek.stackexchange.com.txt": [
+        "latin.stackexchange.com.txt",
+        "hinduism.stackexchange.com.txt"
+    ],
+    "why compare asset performance using returns, instead of using change factors?": [
+        "money.stackexchange.com.txt"
+    ],
+    "puzzle:find-largest-rectangle-maximal-rectangle-problem": [
+        "stackoverflow.com.txt"
+    ],
+    "db design": [
+        "softwareengineering.stackexchange.com.txt"
+    ],
+    "images or functioning websites for portfolio": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "is there a point to the goal game?": [
+        "gaming.stackexchange.com.txt"
+    ],
+    "qualunque altro": [
+        "italian.stackexchange.com.txt"
+    ],
+    "intuition: 5 regular polyhedra, 6 regular 4-polytopes, and then 3 regular d-polytop": [
+        "matheducators.stackexchange.com.txt"
+    ],
+    "serving-through-a-carbonation-stone": [
+        "homebrew.stackexchange.com.txt"
+    ],
+    "database.of.labeled.voice.data.specificaly.laughter": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "tak im i nado": [
+        "russian.stackexchange.com.txt"
+    ],
+    "como trabalhar com v\u00e3\u00a1rias colunas bootstrap": [
+        "pt.stackoverflow.com.txt"
+    ],
+    "how to localize country names in phrases?": [
+        "linguistics.stackexchange.com.txt"
+    ],
+    "unable to locate webelement which is wrapped in nested classes": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "get password from url parameter": [
+        "ru.stackoverflow.com.txt"
+    ],
+    "wikisitefordatatables.txt": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "url rewrite for category in layered navigation to external url": [
+        "magento.stackexchange.com.txt"
+    ],
+    "how to re-engage someone whom i think might not remember me?": [
+        "interpersonal.stackexchange.com.txt"
+    ],
+    "sciencefiction.stackexchange.com.txt": [
+        "scifi.stackexchange.com.txt"
+    ],
+    "avoid re-enabling patches between reruns in ollydbg": [
+        "reverseengineering.stackexchange.com.txt"
+    ],
+    "robotics.stackexchange.com.txt": [
+        "worldbuilding.stackexchange.com.txt",
+        "sound.stackexchange.com.txt",
+        "robotics.stackexchange.com.txt"
+    ],
+    "data merge not generating multiple records.": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "how to pass character strings to r from iml studio": [
+        "stats.stackexchange.com.txt"
+    ],
+    "n\u00e3\u00a4chste mal": [
+        "german.stackexchange.com.txt"
+    ],
+    "help": [
+        "stellar.stackexchange.com.txt"
+    ],
+    "ad hominem": [
+        "philosophy.stackexchange.com.txt"
+    ],
+    "sharing live file upload folders with dev": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "how to share post to g+ twitter and facebook": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "labels above the field or to the side of the field? what about prompt text and validation messages?": [
+        "ux.stackexchange.com.txt"
+    ],
+    "what is the usual way to specify a gui?": [
+        "ux.stackexchange.com.txt"
+    ],
+    "file.upload.issue.in.channel.form": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "what's the distribution of these data?": [
+        "stats.stackexchange.com.txt"
+    ],
+    "report owner set": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "outlook 2007 reinstall & import from backup, now i have duplicates of everything": [
+        "superuser.com.txt"
+    ],
+    "github.com": [
+        "opensource.stackexchange.com.txt"
+    ],
+    "unterschied zwischen": [
+        "german.stackexchange.com.txt"
+    ],
+    "so watch face - android wear os watch face and complications": [
+        "stackapps.com.txt"
+    ],
+    "are users able to accurately identify their persona? or should they be able?": [
+        "ux.stackexchange.com.txt"
+    ],
+    "prevent-duplicating-posts-when-viewing-a-custom-taxonomy-term": [
+        "wordpress.stackexchange.com.txt"
+    ],
+    "gmail attachments in trash, but invisible": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "name": [
+        "rus.stackexchange.com.txt"
+    ],
+    "how to disable yesware in gmail?": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "map thumb buttons to middle click in linux": [
+        "superuser.com.txt"
+    ],
+    "prize-collecting shortest path problem": [
+        "or.stackexchange.com.txt"
+    ],
+    "what ranking factors are used for international search?": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "apply the inverse operation on both sides, or know the inverse function?": [
+        "matheducators.stackexchange.com.txt"
+    ],
+    "email tag defaulting to ee admin email address for guest user": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "stellar.stackexchange.com.txt": [
+        "stellar.stackexchange.com.txt"
+    ],
+    "netcat": [
+        "reverseengineering.stackexchange.com.txt"
+    ],
+    "what is cortana?": [
+        "windowsphone.stackexchange.com.txt"
+    ],
+    "criar uma classe dinamicamente em c#": [
+        "pt.stackoverflow.com.txt"
+    ],
+    "using a custom claims provider to populate user properties (email and display name)": [
+        "sharepoint.stackexchange.com.txt"
+    ],
+    "how create a unique constraint?": [
+        "stackoverflow.com.txt"
+    ],
+    "hoje s\u00e3\u00a3o": [
+        "portuguese.stackexchange.com.txt"
+    ],
+    "voice.search.stackexchange.com.txt": [
+        "stackapps.com.txt"
+    ],
+    "heroes.stackexchange.com.txt": [
+        "scifi.stackexchange.com.txt"
+    ],
+    "chatception - quickly chat in different rooms from a single page (v0.3)": [
+        "stackapps.com.txt"
+    ],
+    "pdflatex.stackexchange.com.txt": [
+        "tex.stackexchange.com.txt"
+    ],
+    "raw data from us census and bls": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "is there a way to keep the app data even after uninstallation?": [
+        "windowsphone.stackexchange.com.txt"
+    ],
+    "mqtt: can a subscriber send data to a producer asynchronously?": [
+        "iot.stackexchange.com.txt"
+    ],
+    "php.stackexchange.com.txt": [
+        "es.stackoverflow.com.txt"
+    ],
+    "useradd": [
+        "serverfault.com.txt"
+    ],
+    "how to install a.js file into greasemonkey?": [
+        "superuser.com.txt"
+    ],
+    "peripeteia": [
+        "literature.stackexchange.com.txt"
+    ],
+    "what is a comment to a text?": [
+        "rus.stackexchange.com.txt"
+    ],
+    "randomreal closed on left & open on right?": [
+        "mathematica.stackexchange.com.txt"
+    ],
+    "d\u00e3\u00bavida sobre uso de diret\u00e3\u00b3rio virtual no iis e filetable": [
+        "pt.stackoverflow.com.txt"
+    ],
+    "i need an easy relational database to catalog research data": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "notification": [
+        "ru.stackoverflow.com.txt"
+    ],
+    "repetition.interval.during.initial.learning.within.a.day": [
+        "languagelearning.stackexchange.com.txt"
+    ],
+    "disenchanting": [
+        "gaming.stackexchange.com.txt"
+    ],
+    "is it okay to add keyword tags at the beginning or ending of the post?": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "_singleton/core/resource": [
+        "magento.stackexchange.com.txt"
+    ],
+    "clock face interface for time selection": [
+        "ux.stackexchange.com.txt"
+    ],
+    "2016x2016 table": [
+        "puzzling.stackexchange.com.txt"
+    ],
+    "gimp.stackexchange.com.txt": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "!": [
+        "vi.stackexchange.com.txt"
+    ],
+    "google": [
+        "english.stackexchange.com.txt"
+    ],
+    "gvim": [
+        "vi.stackexchange.com.txt"
+    ],
+    "how to balance conflicting leadership roles?": [
+        "pm.stackexchange.com.txt"
+    ],
+    "what-happened-to-the-original-cybermen": [
+        "scifi.stackexchange.com.txt"
+    ],
+    "should we open our data?": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "hypothesis testing using the likelihood ratio test": [
+        "stats.stackexchange.com.txt"
+    ],
+    "feedback.on.my.companys.logo": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "are these numbers right? + 3rd card doesn't mine": [
+        "ethereum.stackexchange.com.txt"
+    ],
+    "timeseries from the cia world factbook": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "all components of same type are begin (re)published when publishing single component": [
+        "tridion.stackexchange.com.txt"
+    ],
+    "is there a name or a way to find this kind of images / color palettes?": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "wpa password not remembered after a reboot": [
+        "superuser.com.txt"
+    ],
+    "mouseover folder preview for windows 10 desktop": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "how can i calculate the number of deductions i should use?": [
+        "money.stackexchange.com.txt"
+    ],
+    "what are the recommended sizes for a text box?": [
+        "writers.stackexchange.com.txt"
+    ],
+    "generate large document by pdftex, then break result into many pdf files while preserving links": [
+        "tex.stackexchange.com.txt"
+    ],
+    "left4dead2.com.txt": [
+        "gaming.stackexchange.com.txt"
+    ],
+    "what is the relationship between smarttarget and fredhopper?": [
+        "tridion.stackexchange.com.txt"
+    ],
+    "show registration and login form on the homepage": [
+        "magento.stackexchange.com.txt"
+    ],
+    "login": [
+        "softwareengineering.stackexchange.com.txt"
+    ],
+    "auto indentation plugin for notepad++": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "send email to admin when user/member updates specific user/member data": [
+        "wordpress.stackexchange.com.txt"
+    ],
+    "detecting tests that will never fail": [
+        "sqa.stackexchange.com.txt"
+    ],
+    "mail storage (offline)": [
+        "lifehacks.stackexchange.com.txt"
+    ],
+    "number of faculty members": [
+        "opendata.stackexchange.com.txt"
+    ],
+    "are all samadhis required in order or can be practiced irrespective of each other?": [
+        "hinduism.stackexchange.com.txt"
+    ],
+    "ida name tab": [
+        "reverseengineering.stackexchange.com.txt"
+    ],
+    "resolving session fixation in jboss": [
+        "stackoverflow.com.txt"
+    ],
+    "all new items have same id# 0": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "do i always have access to my domain powers?": [
+        "rpg.stackexchange.com.txt"
+    ],
+    "moss 2007 recovery using data protection manager": [
+        "serverfault.com.txt"
+    ],
+    "how to find the minimum value of this expression?": [
+        "math.stackexchange.com.txt"
+    ],
+    "serverfault.com.txt": [
+        "serverfault.com.txt"
+    ],
+    "learn to read and write for a multilingual pre-school child": [
+        "languagelearning.stackexchange.com.txt"
+    ],
+    "gift tax exemptions in the us": [
+        "money.stackexchange.com.txt"
+    ],
+    "twitter tweet count - bug?": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "homesteading.stackexchange.com.txt": [
+        "lifehacks.stackexchange.com.txt"
+    ],
+    "conditional formatting based on number of characters": [
+        "webapps.stackexchange.com.txt"
+    ],
+    "does free will require randomness?": [
+        "philosophy.stackexchange.com.txt"
+    ],
+    "wotc d&d 4.0 products": [
+        "rpg.stackexchange.com.txt"
+    ],
+    "petmedical.stackexchange.com.txt": [
+        "pets.stackexchange.com.txt"
+    ],
+    "adding more fields to the comments form including image upload": [
+        "wordpress.stackexchange.com.txt"
+    ],
+    "https://expatriates.stackexchange.com.txt": [
+        "expatriates.stackexchange.com.txt"
+    ],
+    "there is a reason sudoku uses squares": [
+        "puzzling.stackexchange.com.txt"
+    ],
+    "video lazy loading skipping first video in every list": [
+        "joomla.stackexchange.com.txt"
+    ],
+    "\u00f0\u009f\u00f1\u0080\u00f0\u00be\u00f0\u00bf\u00f0\u00b8\u00f1\u0081\u00f0\u00bd\u00f0\u00b0\u00f1\u008f \u00f0\u00b8\u00f0\u00bb\u00f0\u00b8 \u00f1\u0081\u00f1\u0082\u00f1\u0080\u00f0\u00be\u00f1\u0087\u00f0\u00bd\u00f0\u00b0\u00f1\u008f \u00f0\u00b2 \u00f0\u00bd\u00f0\u00b0\u00f0\u00b7\u00f0\u00b2\u00f0\u00b0\u00f0\u00bd\u00f0\u00b8\u00f0\u00b8 \u00f0\u00b3\u00f0\u00be\u00f1\u0081. \u00f0\u00be\u00f1\u0080\u00f0\u00b3\u00f0\u00b0\u00f0\u00bd\u00f0\u00b0?": [
+        "rus.stackexchange.com.txt"
+    ],
+    "cl.stackexchange.com.txt": [
+        "sports.stackexchange.com.txt"
+    ],
+    "safercracker radio buttons \u00e2\u0080\u0093 show chosen on refresh of page": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "what is a basis swap curve?": [
+        "quant.stackexchange.com.txt"
+    ],
+    "what specifically should i include to my self study notes?": [
+        "matheducators.stackexchange.com.txt"
+    ],
+    "puzzling.stackexchange.com.txt": [
+        "puzzling.stackexchange.com.txt"
+    ],
+    "what is loki considered to be?": [
+        "mythology.stackexchange.com.txt"
+    ],
+    "what is the difference between these two versions of the mishna berura?": [
+        "judaism.stackexchange.com.txt"
+    ],
+    "neovim: exit code for jobs terminated by jobstop": [
+        "vi.stackexchange.com.txt"
+    ],
+    "best practice when dealing with long user first names in ui": [
+        "ux.stackexchange.com.txt"
+    ],
+    "what are the options for glass mapper model attributes?": [
+        "sitecore.stackexchange.com.txt"
+    ],
+    "response to notice to file corrected application papers": [
+        "patents.stackexchange.com.txt"
+    ],
+    "virtual host under macosx not working": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "phrase-structure-rules": [
+        "french.stackexchange.com.txt"
+    ],
+    "networking.stackexchange.com.txt": [
+        "workplace.stackexchange.com.txt"
+    ],
+    "an empty file": [
+        "german.stackexchange.com.txt"
+    ],
+    "futoshiki.stackexchange.com.txt": [
+        "puzzling.stackexchange.com.txt"
+    ],
+    "preserving existing comments when parsing, modifying and dumping a yaml document": [
+        "softwarerecs.stackexchange.com.txt"
+    ],
+    "automatically authenticate to my company's proxy without user interaction": [
+        "serverfault.com.txt"
+    ],
+    "what is the stalker speed increase?": [
+        "gaming.stackexchange.com.txt"
+    ],
+    "what are the gates of paradise?": [
+        "islam.stackexchange.com.txt"
+    ],
+    "how big is the cutoff for screen compatibility": [
+        "ux.stackexchange.com.txt"
+    ],
+    "uncategorized": [
+        "wordpress.stackexchange.com.txt"
+    ],
+    "animation.stackexchange.com.txt": [
+        "gamedev.stackexchange.com.txt"
+    ],
+    "crunchbang home server": [
+        "unix.stackexchange.com.txt"
+    ],
+    "when do the first ncaa football polls come out?": [
+        "sports.stackexchange.com.txt"
+    ],
+    "feature selection given non-normal variables": [
+        "stats.stackexchange.com.txt"
+    ],
+    "sabr pde spot/forward upper boundary condition implementation": [
+        "quant.stackexchange.com.txt"
+    ],
+    "config.txt with multiple lines is not working": [
+        "raspberrypi.stackexchange.com.txt"
+    ],
+    "how to format the chapter heading?": [
+        "tex.stackexchange.com.txt"
+    ],
+    "n3 pattern: difference of \u00e3\u0080\u008c\u00ef\u00bd\u009e\u00e3\u0081\u008b\u00e3\u0082\u008f\u00e3\u0082\u008a\u00e3\u0081\u00ab\u00e3\u0080\u008d\u00e3\u0080\u0081\u00e3\u0080\u008c\u00ef\u00bd\u009e\u00e5\u008f\u008d\u00e9\u009d\u00a2\u00e3\u0080\u008d\u00e3\u0080\u0081\u00e3\u0080\u008c\u00ef\u00bd\u009e\u00e4\u00b8\u0080\u00e6\u0096\u00b9\u00ef\u00bc\u0088\u00e3\u0081\u00a7\u00ef\u00bc\u0089\u00e3\u0080\u008d": [
+        "japanese.stackexchange.com.txt"
+    ],
+    "how to negotiate price?": [
+        "money.stackexchange.com.txt"
+    ],
+    "rendering on standard account layout workaround.": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "hm hud": [
+        "poker.stackexchange.com.txt"
+    ],
+    "portuguese.stackexchange.com.txt": [
+        "portuguese.stackexchange.com.txt"
+    ],
+    "https://stackapps.com/oauth/auth": [
+        "stackapps.com.txt"
+    ],
+    "http callout doesn't return the latest data": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "show/hide spoilers on any question (and its answers)": [
+        "stackapps.com.txt"
+    ],
+    "find the next numbers in series": [
+        "puzzling.stackexchange.com.txt"
+    ],
+    "gell-mann-low-equation": [
+        "physics.stackexchange.com.txt"
+    ],
+    "initializing a struct in win32 assembly programming using masm": [
+        "reverseengineering.stackexchange.com.txt"
+    ],
+    "how do i determine the ttl?": [
+        "security.stackexchange.com.txt"
+    ],
+    "grammar": [
+        "english.stackexchange.com.txt"
+    ],
+    "trying to merge an object and text in illustrator cs5": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "pixel art": [
+        "graphicdesign.stackexchange.com.txt"
+    ],
+    "listening-to-your-own-work": [
+        "sound.stackexchange.com.txt"
+    ],
+    "mist": [
+        "ethereum.stackexchange.com.txt"
+    ],
+    "generalized eigenvalue with null space": [
+        "scicomp.stackexchange.com.txt"
+    ],
+    "forcedroid.stackexchange.com.txt": [
+        "salesforce.stackexchange.com.txt"
+    ],
+    "alignment-of-equals-sign-in-multiple-align-environments.txt": [
+        "tex.stackexchange.com.txt"
+    ],
+    "encoding problem while accessing the api using java": [
+        "stackapps.com.txt"
+    ],
+    "how to see which apps used data connection?": [
+        "windowsphone.stackexchange.com.txt"
+    ],
+    "arpa.stackexchange.com.txt": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "how does cpanel create subdomains?": [
+        "webmasters.stackexchange.com.txt"
+    ],
+    "what is portfolio volatility for year 1 and 2 combined?": [
+        "quant.stackexchange.com.txt"
+    ],
+    "tpm and storage of keys": [
+        "security.stackexchange.com.txt"
+    ],
+    "vim: don't close fold when closing file": [
+        "vi.stackexchange.com.txt"
+    ],
+    "abrir arquivo.txt como tooltip": [
+        "pt.stackoverflow.com.txt"
+    ],
+    "max level": [
+        "gaming.stackexchange.com.txt"
+    ],
+    "eso.stackexchange.com.txt": [
+        "gaming.stackexchange.com.txt"
+    ],
+    "to determine whether": [
+        "english.stackexchange.com.txt"
+    ],
+    "\u00e3\u00a8 gaudio": [
+        "italian.stackexchange.com.txt"
+    ],
+    "computing.stackexchange.com.txt": [
+        "scicomp.stackexchange.com.txt"
+    ],
+    "language": [
+        "italian.stackexchange.com.txt"
+    ],
+    "cozzeca": [
+        "italian.stackexchange.com.txt"
+    ],
+    "where does active directory store user hashes?": [
+        "security.stackexchange.com.txt"
+    ],
+    "playa.stackexchange.com.txt": [
+        "expressionengine.stackexchange.com.txt"
+    ],
+    "dvwp": [
+        "sharepoint.stackexchange.com.txt"
+    ]
+}

@@ -1,0 +1,682 @@
+{
+    "goodbye": [
+        "goodbye"
+    ],
+    "next song": [
+        "next song",
+        "update playlist"
+    ],
+    "report lost card": [
+        "report lost card",
+        "damaged card"
+    ],
+    "reminder": [
+        "schedule maintenance",
+        "reminder",
+        "reminder update"
+    ],
+    "card declined": [
+        "report fraud",
+        "card declined"
+    ],
+    "definition": [
+        "definition",
+        "spelling"
+    ],
+    "temperature": [
+        "smart home"
+    ],
+    "caring": [
+        "pto balance",
+        "meal suggestion",
+        "jump start",
+        "greeting",
+        "whisper mode",
+        "international fees",
+        "repeat",
+        "what song",
+        "what are your hobbies",
+        "thank you",
+        "restaurant suggestion",
+        "ingredient substitution",
+        "restaurant reviews",
+        "replacement card duration",
+        "weather",
+        "freeze account",
+        "credit score",
+        "tire pressure",
+        "timezone",
+        "do you have pets",
+        "change speed",
+        "distance",
+        "cancel",
+        "update playlist",
+        "translate",
+        "taxes",
+        "how old are you",
+        "damaged card",
+        "pto used",
+        "reminder update",
+        "who made you",
+        "next song",
+        "plug type",
+        "who do you work for",
+        "change ai name",
+        "yes",
+        "traffic",
+        "where are you from",
+        "goodbye",
+        "meeting schedule",
+        "ingredients list",
+        "todo list",
+        "text",
+        "how busy",
+        "change user name",
+        "todo list update",
+        "spelling",
+        "what can i ask you",
+        "order status",
+        "food last",
+        "travel suggestion",
+        "user name",
+        "insurance",
+        "date",
+        "flight status",
+        "next holiday",
+        "definition",
+        "w2",
+        "vaccines",
+        "pto request",
+        "are you a bot",
+        "smart home",
+        "calendar",
+        "what is your name"
+    ],
+    "whisper mode": [
+        "whisper mode"
+    ],
+    "account blocked": [
+        "account blocked",
+        "freeze account"
+    ],
+    "what is your name": [
+        "what is your name",
+        "user name"
+    ],
+    "calendar": [
+        "calendar",
+        "calendar update",
+        "meeting schedule"
+    ],
+    "time": [
+        "time"
+    ],
+    "balance": [
+        "spending history",
+        "balance",
+        "bill balance"
+    ],
+    "how old are you": [
+        "how old are you"
+    ],
+    "change volume": [
+        "change volume"
+    ],
+    "gas": [
+        "gas",
+        "spending history",
+        "gas type"
+    ],
+    "change accent": [
+        "change accent",
+        "whisper mode"
+    ],
+    "international visa": [
+        "international visa",
+        "new card"
+    ],
+    "direct deposit": [
+        "payday",
+        "direct deposit"
+    ],
+    "pin change": [
+        "pin change"
+    ],
+    ",": [
+        "credit score",
+        "transactions"
+    ],
+    "insurance benefits": [
+        "insurance"
+    ],
+    "cancel": [
+        "calendar update",
+        "cancel"
+    ],
+    "cook time": [
+        "cook time"
+    ],
+    "who do you work for": [
+        "who do you work for"
+    ],
+    "are you a bot": [
+        "are you a bot",
+        "what can i ask you",
+        "yes"
+    ],
+    "restaurant reservation": [
+        "restaurant reviews",
+        "accept reservations",
+        "how busy",
+        "restaurant reservation",
+        "confirm reservation",
+        "restaurant suggestion"
+    ],
+    "expiration date": [
+        "food last",
+        "expiration date"
+    ],
+    "pay bill": [
+        "pay bill",
+        "min payment",
+        "bill balance"
+    ],
+    "income": [
+        "payday",
+        "w2",
+        "income",
+        "taxes"
+    ],
+    "order checks": [
+        "order checks"
+    ],
+    "insurance": [
+        "pay bill",
+        "insurance change"
+    ],
+    "nutrition info": [
+        "calories",
+        "nutrition info"
+    ],
+    "freeze account": [
+        "account blocked",
+        "freeze account"
+    ],
+    "application status": [
+        "new card",
+        "pto request status",
+        "application status"
+    ],
+    "bill due": [
+        "bill due"
+    ],
+    "redeem rewards": [
+        "rewards balance",
+        "redeem rewards"
+    ],
+    "change language": [
+        "change language"
+    ],
+    "mpg": [
+        "gas",
+        "gas type",
+        "mpg"
+    ],
+    "travel alert": [
+        "travel alert"
+    ],
+    "add god's plan by drake to my playlist": [
+        "update playlist"
+    ],
+    "cancel reservation": [
+        "cancel reservation",
+        "calendar update",
+        "confirm reservation"
+    ],
+    "next day off": [
+        "next holiday"
+    ],
+    "min payment": [
+        "min payment"
+    ],
+    "transfer": [
+        "transfer"
+    ],
+    "ingredient substitution": [
+        "ingredient substitution",
+        "ingredients list",
+        "recipe"
+    ],
+    "next free day": [
+        "next holiday"
+    ],
+    "rollover 401k": [
+        "rollover 401k"
+    ],
+    "to which company is your design accredited to": [
+        "who made you"
+    ],
+    "change speed": [
+        "change speed"
+    ],
+    "make call": [
+        "sync device",
+        "make call",
+        "uber",
+        "text"
+    ],
+    "weather": [
+        "weather"
+    ],
+    "what song": [
+        "what song"
+    ],
+    "vacation schedule": [
+        "pto balance"
+    ],
+    "text": [
+        "text"
+    ],
+    "who made you": [
+        "where are you from",
+        "who made you"
+    ],
+    "shopping": [
+        "shopping list update",
+        "shopping list"
+    ],
+    "meaning of life": [
+        "meaning of life"
+    ],
+    "meeting schedule": [
+        "meeting schedule",
+        "schedule meeting"
+    ],
+    "interest rate": [
+        "interest rate"
+    ],
+    "vacation request": [
+        "pto request status"
+    ],
+    "credit score": [
+        "rewards balance",
+        "credit score"
+    ],
+    "car rental": [
+        "schedule maintenance",
+        "car rental"
+    ],
+    "package arrival": [
+        "order status"
+    ],
+    "current location": [
+        "share location",
+        "current location"
+    ],
+    "skip this song": [
+        "next song"
+    ],
+    "book flight": [
+        "book flight",
+        "goodbye",
+        "calendar",
+        "pto request"
+    ],
+    "flight status": [
+        "flight status"
+    ],
+    "tire change": [
+        "schedule maintenance",
+        "tire pressure",
+        "tire change"
+    ],
+    "transactions": [
+        "transactions",
+        "international fees"
+    ],
+    "new card": [
+        "new card",
+        "replacement card duration",
+        "international fees"
+    ],
+    "timer": [
+        "timer"
+    ],
+    "rewards": [
+        "rewards balance"
+    ],
+    "what day is it tomorrow": [
+        "date"
+    ],
+    "restaurant suggestion": [
+        "restaurant suggestion"
+    ],
+    "order status": [
+        "order status"
+    ],
+    "carry on": [
+        "carry on"
+    ],
+    "credit limit change": [
+        "credit limit change"
+    ],
+    "next holiday": [
+        "next holiday"
+    ],
+    "insurance change": [
+        "insurance change"
+    ],
+    "lost luggage": [
+        "lost luggage"
+    ],
+    "travel": [
+        "vaccines"
+    ],
+    "find phone": [
+        "find phone",
+        "sync device"
+    ],
+    "taxes": [
+        "w2",
+        "taxes"
+    ],
+    "jump start": [
+        "smart home",
+        "jump start"
+    ],
+    "improve credit score": [
+        "improve credit score"
+    ],
+    "schedule maintenance": [
+        "schedule maintenance"
+    ],
+    "todo list": [
+        "todo list"
+    ],
+    "reset settings": [
+        "reset settings"
+    ],
+    "timezone": [
+        "timezone"
+    ],
+    "tire pressure": [
+        "tire pressure"
+    ],
+    "roll dice": [
+        "roll dice"
+    ],
+    "alarm": [
+        "alarm",
+        "timer"
+    ],
+    "traffic": [
+        "traffic"
+    ],
+    "oil change when": [
+        "last maintenance",
+        "oil change when"
+    ],
+    "calculator": [
+        "exchange rate",
+        "calculator",
+        "measurement conversion"
+    ],
+    "w2": [
+        "w2"
+    ],
+    "book hotel": [
+        "book hotel",
+        "schedule meeting"
+    ],
+    "credit limit": [
+        "credit limit"
+    ],
+    "fun fact": [
+        "tell joke",
+        "fun fact",
+        "travel suggestion"
+    ],
+    "report fraud": [
+        "report fraud",
+        "damaged card"
+    ],
+    "negation": [
+        "no"
+    ],
+    "my next oil change is when": [
+        "oil change when"
+    ],
+    "replacement card duration": [
+        "replacement card duration"
+    ],
+    "remove item from shopping list": [
+        "shopping list update"
+    ],
+    "tire check up": [
+        "schedule maintenance"
+    ],
+    "flip coin": [
+        "flip coin",
+        "roll dice"
+    ],
+    "'caring": [
+        "cancel"
+    ],
+    "apr": [
+        "apr"
+    ],
+    "accept reservations": [
+        "restaurant reservation",
+        "schedule meeting",
+        "yes"
+    ],
+    "quit": [
+        "cancel"
+    ],
+    "add hells bells by acdc to my playlist": [
+        "update playlist"
+    ],
+    "routing": [
+        "routing"
+    ],
+    "international fees": [
+        "international fees"
+    ],
+    "what is my current name saved as": [
+        "user name"
+    ],
+    "order": [
+        "order status",
+        "order"
+    ],
+    "how busy": [
+        "how busy"
+    ],
+    "schedule": [
+        "meeting schedule"
+    ],
+    "car maintenance": [
+        "last maintenance"
+    ],
+    "pto request": [
+        "pto request"
+    ],
+    "measurement conversion": [
+        "measurement conversion"
+    ],
+    "oil change how": [
+        "schedule maintenance",
+        "oil change how"
+    ],
+    "lock all the doors": [
+        "smart home"
+    ],
+    "affirmation": [
+        "yes"
+    ],
+    "maybe": [
+        "maybe"
+    ],
+    "greeting": [
+        "what is your name",
+        "greeting"
+    ],
+    "gas type": [
+        "gas type"
+    ],
+    "does chillis have good reviews": [
+        "restaurant reviews"
+    ],
+    "shopping list": [
+        "shopping list update",
+        "shopping list"
+    ],
+    "account notice": [
+        "travel notification"
+    ],
+    "current time": [
+        "time"
+    ],
+    "thank you": [
+        "thank you",
+        "translate"
+    ],
+    "uber": [
+        "uber"
+    ],
+    "what did you just mention": [
+        "repeat"
+    ],
+    "play music": [
+        "play music",
+        "update playlist"
+    ],
+    "bill balance": [
+        "bill balance"
+    ],
+    "vacation days": [
+        "pto balance"
+    ],
+    "do you need vaccinations to travel there": [
+        "vaccines"
+    ],
+    "recipe": [
+        "ingredients list",
+        "recipe",
+        "meal suggestion"
+    ],
+    "do you charge me if i use my card in japan": [
+        "international fees"
+    ],
+    "time off": [
+        "pto request"
+    ],
+    "vaccines": [
+        "vaccines"
+    ],
+    "ordering": [
+        "order"
+    ],
+    "spending history": [
+        "spending history"
+    ],
+    "confirm reservation": [
+        "confirm reservation"
+    ],
+    "calendar update": [
+        "calendar update"
+    ],
+    "tell joke": [
+        "tell joke"
+    ],
+    "stop": [
+        "cancel"
+    ],
+    "is my package able to be tracked by you": [
+        "order status"
+    ],
+    "uncertainty": [
+        "maybe"
+    ],
+    "change ai name": [
+        "change ai name"
+    ],
+    "damaged card": [
+        "damaged card"
+    ],
+    "who knows": [
+        "maybe"
+    ],
+    "who sings this song": [
+        "what song"
+    ],
+    "which company is responsible for your design": [
+        "who made you"
+    ],
+    "what is my first name saved as": [
+        "user name"
+    ],
+    "play my maroon 5 playlist": [
+        "play music"
+    ],
+    "no": [
+        "no"
+    ],
+    "pair with my phone": [
+        "sync device"
+    ],
+    "what country do you consider yourself a citizen of": [
+        "where are you from"
+    ],
+    "request vacation": [
+        "pto request"
+    ],
+    "does sidetracks take reservations": [
+        "accept reservations"
+    ],
+    "find nearest dairy queen": [
+        "directions"
+    ],
+    "what name do you have saved for me": [
+        "user name"
+    ],
+    "plug converter": [
+        "plug type"
+    ],
+    "calories": [
+        "calories"
+    ],
+    "do my tires need air": [
+        "tire pressure"
+    ],
+    "are you able to get into my phone at the moment": [
+        "sync device"
+    ],
+    "share location": [
+        "share location"
+    ],
+    "notify bank": [
+        "travel notification"
+    ],
+    "pto balance": [
+        "pto used"
+    ],
+    "distance": [
+        "gas"
+    ],
+    "plug type": [
+        "plug type"
+    ],
+    "what are the outlets like": [
+        "plug type"
+    ],
+    "rewards balance": [
+        "rewards balance"
+    ],
+    "change out of whisper mode": [
+        "whisper mode"
+    ],
+    "travel notification": [
+        "travel notification"
+    ]
+}

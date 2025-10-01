@@ -1,0 +1,216 @@
+{
+    "card payment fee charged": [
+        "cash withdrawal charge",
+        "transfer fee charged",
+        "card payment fee charged"
+    ],
+    "declined cash withdrawal": [
+        "declined cash withdrawal"
+    ],
+    "request refund": [
+        "request refund",
+        "direct debit payment not recognised"
+    ],
+    "refund not showing up": [
+        "request refund",
+        "topping up by card",
+        "balance not updated after cheque or cash deposit",
+        "top up reverted",
+        "transaction charged twice",
+        "balance not updated after bank transfer",
+        "Refund not showing up",
+        "extra charge on statement"
+    ],
+    "lost or stolen card": [
+        "lost or stolen card"
+    ],
+    "why can't i take $100 out": [
+        "wrong amount of cash received"
+    ],
+    "card arrival": [
+        "getting virtual card",
+        "card delivery estimate"
+    ],
+    "passcode forgotten": [
+        "passcode forgotten"
+    ],
+    "pending cash withdrawal": [
+        "pending cash withdrawal"
+    ],
+    "transfer not received by recipient": [
+        "transfer not received by recipient"
+    ],
+    "unable to verify identity": [
+        "unable to verify identity"
+    ],
+    "why was my withdrawal requested cancelled by the atm?": [
+        "declined cash withdrawal"
+    ],
+    "cancel transfer": [
+        "transfer timing",
+        "transfer into account",
+        "pending transfer"
+    ],
+    "automatic top up": [
+        "apple pay or google pay"
+    ],
+    "topup not working": [
+        "top up failed"
+    ],
+    "extra charge on statement": [
+        "transfer fee charged"
+    ],
+    "compromised card": [
+        "compromised card"
+    ],
+    "atm support": [
+        "declined cash withdrawal",
+        "atm support"
+    ],
+    "card swallowed": [
+        "card swallowed"
+    ],
+    "card not working": [
+        "card swallowed"
+    ],
+    "my payment's stuck on pending.": [
+        "pending card payment"
+    ],
+    "how can i top up my account and which currency can i use?": [
+        "supported cards and currencies"
+    ],
+    "activate my card": [
+        "card linking",
+        "activate my card"
+    ],
+    "pending top up": [
+        "pending top up"
+    ],
+    "card payment not recognised": [
+        "card payment not recognised",
+        "top up failed"
+    ],
+    "declined card payment": [
+        "declined card payment"
+    ],
+    "get my card": [
+        "order physical card"
+    ],
+    "fiat currency support": [
+        "fiat currency support"
+    ],
+    "card payment wrong exchange rate": [
+        "wrong exchange rate for cash withdrawal",
+        "card payment wrong exchange rate"
+    ],
+    "transfer timing": [
+        "transfer not received by recipient"
+    ],
+    "change pin": [
+        "change pin"
+    ],
+    "why verify identity": [
+        "why verify identity"
+    ],
+    "top up by cash or cheque": [
+        "top up by cash or cheque"
+    ],
+    "balance not updated after cheque or cash deposit": [
+        "balance not updated after cheque or cash deposit"
+    ],
+    "exchange rate": [
+        "exchange rate"
+    ],
+    "cancel direct debit": [
+        "direct debit payment not recognised"
+    ],
+    "cash withdrawal not recognised": [
+        "cash withdrawal not recognised"
+    ],
+    "transfer fee charged": [
+        "transfer fee charged"
+    ],
+    "transaction charged twice": [
+        "transaction charged twice"
+    ],
+    "card about to expire": [
+        "card about to expire"
+    ],
+    "what are the countries that you operate in?": [
+        "country support"
+    ],
+    "my app says that i'm not verified.": [
+        "unable to verify identity"
+    ],
+    "card delivery estimate": [
+        "card arrival"
+    ],
+    "my wallet doesn't show my recent top up.": [
+        "topping up by card"
+    ],
+    "terminate account": [
+        "terminate account"
+    ],
+    "failed transfer": [
+        "failed transfer"
+    ],
+    "cash withdrawal charge": [
+        "cash withdrawal charge"
+    ],
+    "why hasn't my payment gone through yet?": [
+        "pending card payment"
+    ],
+    "verify my identity": [
+        "verify my identity",
+        "unable to verify identity"
+    ],
+    "i prefer mastercard": [
+        "visa or mastercard"
+    ],
+    "why do i need to verify the top-up?": [
+        "verify top up"
+    ],
+    "i'm not in the uk, but can i still get a card?": [
+        "country support"
+    ],
+    "supported cards and currencies": [
+        "fiat currency support"
+    ],
+    "balance not updated after bank transfer": [
+        "balance not updated after cheque or cash deposit",
+        "transfer into account"
+    ],
+    "contactless not working": [
+        "contactless not working"
+    ],
+    "verify my top-up card": [
+        "verify top up"
+    ],
+    "my credit card was declined for top-up. can you see if there is enough funds in my account?": [
+        "top up failed"
+    ],
+    "how can i track the card you sent": [
+        "card arrival"
+    ],
+    "lost or stolen phone": [
+        "lost or stolen phone"
+    ],
+    "what currencies can i exchange between on your app?": [
+        "exchange via app"
+    ],
+    "i got a card, how do i get it in the app": [
+        "card linking"
+    ],
+    "declined transfer": [
+        "declined transfer"
+    ],
+    "the app does not recognize who i am.": [
+        "unable to verify identity"
+    ],
+    "card acceptance": [
+        "card acceptance"
+    ],
+    "age limit": [
+        "age limit"
+    ]
+}
