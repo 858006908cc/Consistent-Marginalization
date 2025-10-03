@@ -104,12 +104,15 @@ We evaluate CM on **five diverse datasets**:
 ## 📒 Reference
 
 ```bibtex
-@article{anonymous2025unlearning,
-  title={Unlearning Misalignment for Personalized {LLM} Adaptation via Instance-Response-Dependent Discrepancies},
-  author={Anonymous},
-  journal={Transactions on Machine Learning Research},
-  year={2025},
-  url={https://openreview.net/forum?id=njE3swFBMc},
+@article{
+chen2025unlearning,
+title={Unlearning Misalignment for Personalized {LLM} Adaptation via Instance-Response-Dependent Discrepancies},
+author={Cheng Chen and Atsushi Nitanda and Ivor Tsang},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=njE3swFBMc},
+note={}
 }
 ```
 
